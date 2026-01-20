@@ -100,10 +100,27 @@ canvas {
   box-shadow: 0 0 8px rgba(0,0,0,0.5);
 }
 
+#removeImage {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: rgba(0,0,0,0.6);
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 32px;
+  height: 32px;
+  font-size: 18px;
+  cursor: pointer;
+  display: none;
+  z-index: 5;
+}
+
 .result {
   display: flex;
   align-items: center;
   gap: 12px;
+  margin-top: 16px;
 }
 
 .color-preview {
@@ -143,16 +160,15 @@ canvas {
     <div id="canvasContainer">
       <canvas id="canvas"></canvas>
       <div id="sampleCircle"></div>
+      <button id="removeImage">❌</button>
     </div>
   </div>
 
-  <div class="card">
-    <div class="result">
-      <div class="color-preview" id="colorPreview"></div>
-      <div class="result-text">
-        <strong id="hexText">HEX: —</strong>
-        <span id="ralText">RAL: —</span>
-      </div>
+  <div class="card result">
+    <div class="color-preview" id="colorPreview"></div>
+    <div class="result-text">
+      <strong id="hexText">HEX: —</strong>
+      <span id="ralText">RAL: —</span>
     </div>
   </div>
 
@@ -168,38 +184,60 @@ const sampleCircle = document.getElementById('sampleCircle');
 const preview = document.getElementById('colorPreview');
 const hexText = document.getElementById('hexText');
 const ralText = document.getElementById('ralText');
+const removeBtn = document.getElementById('removeImage');
 
 const galleryInput = document.getElementById('galleryInput');
 const cameraInput = document.getElementById('cameraInput');
 
 let img = new Image();
+const R = 8;
 
+// Attēla ielāde
 galleryInput.onchange = cameraInput.onchange = e => {
   const file = e.target.files[0];
   if (!file) return;
   img.src = URL.createObjectURL(file);
+  removeBtn.style.display = 'block';
 };
 
+// Kad attēls ielādēts
 img.onload = () => {
   canvas.width = img.width;
   canvas.height = img.height;
   ctx.drawImage(img, 0, 0);
+  sampleCircle.style.left = '-100px';
+  sampleCircle.style.top = '-100px';
 };
 
-const R = 8;
+// Dzēst bildi
+removeBtn.onclick = () => {
+  ctx.clearRect(0,0,canvas.width,canvas.height);
+  img.src = '';
+  sampleCircle.style.left = '-100px';
+  sampleCircle.style.top = '-100px';
+  preview.style.background = '';
+  hexText.textContent = 'HEX: —';
+  ralText.textContent = 'RAL: —';
+  removeBtn.style.display = 'none';
+};
 
+// Click / touch
 canvas.addEventListener('click', pick);
+canvas.addEventListener('touchstart', e => { e.preventDefault(); pick(e.touches[0]); });
 
 function pick(e){
-  const r = canvas.getBoundingClientRect();
-  const x = e.clientX - r.left;
-  const y = e.clientY - r.top;
+  const rect = canvas.getBoundingClientRect();
+  // Aprēķinam x/y attēla pixel koordinātēs
+  const x = (e.clientX - rect.left) * (canvas.width / rect.width);
+  const y = (e.clientY - rect.top) * (canvas.height / rect.height);
 
-  sampleCircle.style.left = x+'px';
-  sampleCircle.style.top = y+'px';
+  // Parādām aplīti DOM koordinātēs
+  sampleCircle.style.left = (e.clientX - rect.left) + 'px';
+  sampleCircle.style.top = (e.clientY - rect.top) + 'px';
 
-  const d = ctx.getImageData(x-R,y-R,R*2,R*2).data;
-  let rsum=0,gsum=0,bsum=0,c=0;
+  // Nolasām vidējo krāsu
+  const d = ctx.getImageData(Math.floor(x-R), Math.floor(y-R), R*2, R*2).data;
+  let rsum=0, gsum=0, bsum=0, c=0;
   for(let i=0;i<d.length;i+=4){
     rsum+=d[i]; gsum+=d[i+1]; bsum+=d[i+2]; c++;
   }
@@ -223,7 +261,5 @@ function closestRAL(r,g,b){
   return best;
 }
 </script>
-
 </body>
 </html>
-
