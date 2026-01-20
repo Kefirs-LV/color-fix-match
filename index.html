@@ -1,179 +1,229 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="lv">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>RAL Color Picker</title>
+<title>ColorFix Match</title>
+
 <style>
-  body {
-    font-family: Arial, sans-serif;
-    text-align: center;
-    padding: 20px;
-    background: #f5f5f5;
-  }
+:root {
+  --bg: #f2f4f8;
+  --card: #ffffff;
+  --primary: #2563eb;
+  --text: #1f2937;
+  --muted: #6b7280;
+}
 
-  h2 {
-    color: #333;
-  }
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+}
 
-  input[type="file"] {
-    font-size: 18px;
-  }
+.app {
+  max-width: 420px;
+  margin: auto;
+  padding: 16px;
+}
 
-  #canvasContainer {
-    position: relative;
-    display: inline-block;
-    margin-top: 20px;
-  }
+.header {
+  text-align: center;
+  margin-bottom: 16px;
+}
 
-  canvas {
-    max-width: 100%;
-    border-radius: 10px;
-    border: 1px solid #ccc;
-  }
+.header h1 {
+  margin: 0;
+  font-size: 24px;
+}
 
-  #sampleCircle {
-    position: absolute;
-    border: 2px solid #fff;
-    border-radius: 50%;
-    width: 20px;
-    height: 20px;
-    pointer-events: none;
-    transform: translate(-50%, -50%);
-    box-shadow: 0 0 5px rgba(0,0,0,0.5);
-  }
+.header p {
+  margin: 4px 0 0;
+  color: var(--muted);
+  font-size: 14px;
+}
 
-  #colorDisplay {
-    margin-top: 15px;
-    font-size: 20px;
-    padding: 10px;
-    background: #fff;
-    border-radius: 12px;
-    display: inline-block;
-    min-width: 220px;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.2);
-  }
+.card {
+  background: var(--card);
+  border-radius: 16px;
+  padding: 16px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+  margin-bottom: 16px;
+}
 
-  #colorBox {
-    display: inline-block;
-    width: 30px;
-    height: 30px;
-    vertical-align: middle;
-    margin-right: 10px;
-    border-radius: 6px;
-    border: 1px solid #ccc;
-  }
+.buttons {
+  display: flex;
+  gap: 12px;
+}
+
+button {
+  flex: 1;
+  padding: 14px;
+  font-size: 16px;
+  border: none;
+  border-radius: 12px;
+  background: var(--primary);
+  color: white;
+  cursor: pointer;
+}
+
+button.secondary {
+  background: #111827;
+}
+
+button:active {
+  transform: scale(0.97);
+}
+
+input[type="file"] {
+  display: none;
+}
+
+#canvasContainer {
+  position: relative;
+  margin-top: 12px;
+}
+
+canvas {
+  width: 100%;
+  border-radius: 12px;
+}
+
+#sampleCircle {
+  position: absolute;
+  width: 22px;
+  height: 22px;
+  border: 2px solid white;
+  border-radius: 50%;
+  pointer-events: none;
+  transform: translate(-50%, -50%);
+  box-shadow: 0 0 8px rgba(0,0,0,0.5);
+}
+
+.result {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.color-preview {
+  width: 50px;
+  height: 50px;
+  border-radius: 12px;
+  border: 1px solid #ddd;
+}
+
+.result-text {
+  font-size: 15px;
+}
+
+.result-text strong {
+  display: block;
+}
 </style>
 </head>
+
 <body>
+<div class="app">
 
-<h2>RAL Color Picker</h2>
+  <div class="header">
+    <h1>ColorFix Match</h1>
+    <p>Atrodi precīzu RAL krāsu no foto</p>
+  </div>
 
-<input type="file" accept="image/*" id="photoInput">
-<div id="canvasContainer">
-    <canvas id="canvas"></canvas>
-    <div id="sampleCircle"></div>
-</div>
-<div id="colorDisplay">
-    <span id="colorBox"></span>
-    HEX: <span id="hexCode">#FFFFFF</span> | RAL: <span id="ralCode">None</span>
+  <div class="card">
+    <div class="buttons">
+      <button onclick="galleryInput.click()">📂 Izvēlēties foto</button>
+      <button class="secondary" onclick="cameraInput.click()">📸 Uzņemt foto</button>
+    </div>
+
+    <input id="galleryInput" type="file" accept="image/*">
+    <input id="cameraInput" type="file" accept="image/*" capture="environment">
+
+    <div id="canvasContainer">
+      <canvas id="canvas"></canvas>
+      <div id="sampleCircle"></div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="result">
+      <div class="color-preview" id="colorPreview"></div>
+      <div class="result-text">
+        <strong id="hexText">HEX: —</strong>
+        <span id="ralText">RAL: —</span>
+      </div>
+    </div>
+  </div>
+
 </div>
 
 <script>
-// Load RAL colors
 let ralColors = [];
-fetch('ral.json')
-  .then(response => response.json())
-  .then(data => { ralColors = data; });
+fetch('ral.json').then(r=>r.json()).then(d=>ralColors=d);
 
-// Canvas setup
-const photoInput = document.getElementById('photoInput');
 const canvas = document.getElementById('canvas');
 const ctx = canvas.getContext('2d');
-const colorDisplay = document.getElementById('colorDisplay');
-const colorBox = document.getElementById('colorBox');
-const hexCodeEl = document.getElementById('hexCode');
-const ralCodeEl = document.getElementById('ralCode');
 const sampleCircle = document.getElementById('sampleCircle');
+const preview = document.getElementById('colorPreview');
+const hexText = document.getElementById('hexText');
+const ralText = document.getElementById('ralText');
+
+const galleryInput = document.getElementById('galleryInput');
+const cameraInput = document.getElementById('cameraInput');
 
 let img = new Image();
 
-photoInput.addEventListener('change', (e) => {
-    const file = e.target.files[0];
-    if(!file) return;
-    const url = URL.createObjectURL(file);
-    img.src = url;
-});
-
-img.onload = () => {
-    canvas.width = img.width > 500 ? 500 : img.width;
-    canvas.height = img.height * (canvas.width / img.width);
-    ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
+galleryInput.onchange = cameraInput.onchange = e => {
+  const file = e.target.files[0];
+  if (!file) return;
+  img.src = URL.createObjectURL(file);
 };
 
-// Sample radius in pixels
-const SAMPLE_RADIUS = 8;
+img.onload = () => {
+  canvas.width = img.width;
+  canvas.height = img.height;
+  ctx.drawImage(img, 0, 0);
+};
 
-canvas.addEventListener('click', handlePick);
-canvas.addEventListener('touchstart', (e) => {
-    e.preventDefault();
-    const touch = e.touches[0];
-    handlePick({clientX: touch.clientX, clientY: touch.clientY});
-});
+const R = 8;
 
-function handlePick(e){
-    const rect = canvas.getBoundingClientRect();
-    const x = e.clientX - rect.left;
-    const y = e.clientY - rect.top;
+canvas.addEventListener('click', pick);
 
-    // Move sample circle
-    sampleCircle.style.left = `${x}px`;
-    sampleCircle.style.top = `${y}px`;
+function pick(e){
+  const r = canvas.getBoundingClientRect();
+  const x = e.clientX - r.left;
+  const y = e.clientY - r.top;
 
-    // Calculate average color
-    const pixels = ctx.getImageData(
-        Math.max(0,x-SAMPLE_RADIUS),
-        Math.max(0,y-SAMPLE_RADIUS),
-        Math.min(SAMPLE_RADIUS*2, canvas.width-x+SAMPLE_RADIUS),
-        Math.min(SAMPLE_RADIUS*2, canvas.height-y+SAMPLE_RADIUS)
-    ).data;
+  sampleCircle.style.left = x+'px';
+  sampleCircle.style.top = y+'px';
 
-    let r=0, g=0, b=0, count=0;
-    for(let i=0; i<pixels.length; i+=4){
-        r += pixels[i];
-        g += pixels[i+1];
-        b += pixels[i+2];
-        count++;
-    }
-    r = Math.round(r/count);
-    g = Math.round(g/count);
-    b = Math.round(b/count);
+  const d = ctx.getImageData(x-R,y-R,R*2,R*2).data;
+  let rsum=0,gsum=0,bsum=0,c=0;
+  for(let i=0;i<d.length;i+=4){
+    rsum+=d[i]; gsum+=d[i+1]; bsum+=d[i+2]; c++;
+  }
 
-    const hex = rgbToHex(r,g,b);
-    const ral = findClosestRAL(r,g,b);
+  const rA=Math.round(rsum/c);
+  const gA=Math.round(gsum/c);
+  const bA=Math.round(bsum/c);
 
-    colorBox.style.background = hex;
-    hexCodeEl.textContent = hex;
-    ralCodeEl.textContent = ral;
+  const hex = '#'+((1<<24)+(rA<<16)+(gA<<8)+bA).toString(16).slice(1).toUpperCase();
+  preview.style.background = hex;
+  hexText.textContent = 'HEX: '+hex;
+  ralText.textContent = 'RAL: '+closestRAL(rA,gA,bA);
 }
 
-function rgbToHex(r,g,b){
-    return "#" + ((1<<24) + (r<<16) + (g<<8) + b).toString(16).slice(1).toUpperCase();
-}
-
-function findClosestRAL(r,g,b){
-    if(ralColors.length===0) return "None";
-    let minDist = Infinity;
-    let closest = null;
-    for(let color of ralColors){
-        const dist = Math.sqrt((r-color.r)**2 + (g-color.g)**2 + (b-color.b)**2);
-        if(dist < minDist){
-            minDist = dist;
-            closest = color.name;
-        }
-    }
-    return closest;
+function closestRAL(r,g,b){
+  let best='—',dist=1e9;
+  ralColors.forEach(c=>{
+    const d=(r-c.r)**2+(g-c.g)**2+(b-c.b)**2;
+    if(d<dist){dist=d;best=c.name;}
+  });
+  return best;
 }
 </script>
+
 </body>
 </html>
+
