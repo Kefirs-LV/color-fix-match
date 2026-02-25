@@ -32,17 +32,6 @@ body {
   margin-bottom: 16px;
 }
 
-.header h1 {
-  margin: 0;
-  font-size: 24px;
-}
-
-.header p {
-  margin: 4px 0 0;
-  color: var(--muted);
-  font-size: 14px;
-}
-
 .card {
   background: var(--card);
   border-radius: 16px;
@@ -71,10 +60,6 @@ button.secondary {
   background: #111827;
 }
 
-button:active {
-  transform: scale(0.97);
-}
-
 input[type="file"] {
   display: none;
 }
@@ -87,6 +72,7 @@ input[type="file"] {
 canvas {
   width: 100%;
   border-radius: 12px;
+  display: block;
 }
 
 #sampleCircle {
@@ -97,30 +83,28 @@ canvas {
   border-radius: 50%;
   pointer-events: none;
   transform: translate(-50%, -50%);
-  box-shadow: 0 0 8px rgba(0,0,0,0.5);
+  box-shadow: 0 0 8px rgba(0,0,0,0.6);
+  display: none;
 }
 
-#removeImage {
+#removeBtn {
   position: absolute;
-  top: 10px;
-  right: 10px;
-  background: rgba(0,0,0,0.6);
+  top: 8px;
+  right: 8px;
+  background: rgba(0,0,0,0.7);
   color: white;
   border: none;
   border-radius: 50%;
-  width: 32px;
-  height: 32px;
-  font-size: 18px;
+  width: 28px;
+  height: 28px;
   cursor: pointer;
   display: none;
-  z-index: 5;
 }
 
 .result {
   display: flex;
   align-items: center;
   gap: 12px;
-  margin-top: 16px;
 }
 
 .color-preview {
@@ -128,14 +112,6 @@ canvas {
   height: 50px;
   border-radius: 12px;
   border: 1px solid #ddd;
-}
-
-.result-text {
-  font-size: 15px;
-}
-
-.result-text strong {
-  display: block;
 }
 </style>
 </head>
@@ -145,13 +121,13 @@ canvas {
 
   <div class="header">
     <h1>ColorFix Match</h1>
-    <p>Atrodi precīzu RAL krāsu no foto</p>
+    <p>Atrodi RGB, RAL un Tikkurila kodu</p>
   </div>
 
   <div class="card">
     <div class="buttons">
-      <button onclick="galleryInput.click()">📂 Izvēlēties foto</button>
-      <button class="secondary" onclick="cameraInput.click()">📸 Uzņemt foto</button>
+      <button onclick="galleryInput.click()">📂 Izvēlēties</button>
+      <button class="secondary" onclick="cameraInput.click()">📸 Kamera</button>
     </div>
 
     <input id="galleryInput" type="file" accept="image/*">
@@ -160,15 +136,19 @@ canvas {
     <div id="canvasContainer">
       <canvas id="canvas"></canvas>
       <div id="sampleCircle"></div>
-      <button id="removeImage">❌</button>
+      <button id="removeBtn">✕</button>
     </div>
   </div>
 
-  <div class="card result">
-    <div class="color-preview" id="colorPreview"></div>
-    <div class="result-text">
-      <strong id="hexText">HEX: —</strong>
-      <span id="ralText">RAL: —</span>
+  <div class="card">
+    <div class="result">
+      <div class="color-preview" id="colorPreview"></div>
+      <div>
+        <strong id="rgbText">RGB: —</strong><br>
+        <span id="hexText">HEX: —</span><br>
+        <span id="ralText">RAL: —</span><br>
+        <span id="tikkurilaText">Tikkurila: —</span>
+      </div>
     </div>
   </div>
 
@@ -182,74 +162,70 @@ const canvas = document.getElementById('canvas');
 const ctx = canvas.getContext('2d');
 const sampleCircle = document.getElementById('sampleCircle');
 const preview = document.getElementById('colorPreview');
+const rgbText = document.getElementById('rgbText');
 const hexText = document.getElementById('hexText');
 const ralText = document.getElementById('ralText');
-const removeBtn = document.getElementById('removeImage');
+const tikkurilaText = document.getElementById('tikkurilaText');
+const removeBtn = document.getElementById('removeBtn');
 
 const galleryInput = document.getElementById('galleryInput');
 const cameraInput = document.getElementById('cameraInput');
 
 let img = new Image();
-const R = 8;
 
-// Attēla ielāde
 galleryInput.onchange = cameraInput.onchange = e => {
   const file = e.target.files[0];
   if (!file) return;
   img.src = URL.createObjectURL(file);
-  removeBtn.style.display = 'block';
 };
 
-// Kad attēls ielādēts
 img.onload = () => {
   canvas.width = img.width;
   canvas.height = img.height;
   ctx.drawImage(img, 0, 0);
-  sampleCircle.style.left = '-100px';
-  sampleCircle.style.top = '-100px';
+  sampleCircle.style.display = "none";
+  removeBtn.style.display = "block";
 };
 
-// Dzēst bildi
 removeBtn.onclick = () => {
   ctx.clearRect(0,0,canvas.width,canvas.height);
-  img.src = '';
-  sampleCircle.style.left = '-100px';
-  sampleCircle.style.top = '-100px';
-  preview.style.background = '';
-  hexText.textContent = 'HEX: —';
-  ralText.textContent = 'RAL: —';
-  removeBtn.style.display = 'none';
+  canvas.width = 0;
+  canvas.height = 0;
+  sampleCircle.style.display = "none";
+  removeBtn.style.display = "none";
+  rgbText.textContent = "RGB: —";
+  hexText.textContent = "HEX: —";
+  ralText.textContent = "RAL: —";
+  tikkurilaText.textContent = "Tikkurila: —";
+  preview.style.background = "transparent";
 };
 
-// Click / touch
 canvas.addEventListener('click', pick);
-canvas.addEventListener('touchstart', e => { e.preventDefault(); pick(e.touches[0]); });
 
 function pick(e){
   const rect = canvas.getBoundingClientRect();
-  // Aprēķinam x/y attēla pixel koordinātēs
-  const x = (e.clientX - rect.left) * (canvas.width / rect.width);
-  const y = (e.clientY - rect.top) * (canvas.height / rect.height);
+  const scaleX = canvas.width / rect.width;
+  const scaleY = canvas.height / rect.height;
 
-  // Parādām aplīti DOM koordinātēs
-  sampleCircle.style.left = (e.clientX - rect.left) + 'px';
-  sampleCircle.style.top = (e.clientY - rect.top) + 'px';
+  const x = (e.clientX - rect.left) * scaleX;
+  const y = (e.clientY - rect.top) * scaleY;
 
-  // Nolasām vidējo krāsu
-  const d = ctx.getImageData(Math.floor(x-R), Math.floor(y-R), R*2, R*2).data;
-  let rsum=0, gsum=0, bsum=0, c=0;
-  for(let i=0;i<d.length;i+=4){
-    rsum+=d[i]; gsum+=d[i+1]; bsum+=d[i+2]; c++;
-  }
+  sampleCircle.style.left = (e.clientX - rect.left)+'px';
+  sampleCircle.style.top = (e.clientY - rect.top)+'px';
+  sampleCircle.style.display = "block";
 
-  const rA=Math.round(rsum/c);
-  const gA=Math.round(gsum/c);
-  const bA=Math.round(bsum/c);
+  const data = ctx.getImageData(x,y,1,1).data;
+  const r = data[0];
+  const g = data[1];
+  const b = data[2];
 
-  const hex = '#'+((1<<24)+(rA<<16)+(gA<<8)+bA).toString(16).slice(1).toUpperCase();
+  const hex = '#'+((1<<24)+(r<<16)+(g<<8)+b).toString(16).slice(1).toUpperCase();
+
   preview.style.background = hex;
-  hexText.textContent = 'HEX: '+hex;
-  ralText.textContent = 'RAL: '+closestRAL(rA,gA,bA);
+  rgbText.textContent = `RGB: ${r}, ${g}, ${b}`;
+  hexText.textContent = `HEX: ${hex}`;
+  ralText.textContent = `RAL: ${closestRAL(r,g,b)}`;
+  tikkurilaText.textContent = `Tikkurila: ${generateTikkurila(r,g,b)}`;
 }
 
 function closestRAL(r,g,b){
@@ -260,6 +236,31 @@ function closestRAL(r,g,b){
   });
   return best;
 }
+
+/* --- TIKKURILA SYMPHONY STYLE GENERATOR --- */
+function generateTikkurila(r,g,b){
+
+  const max = Math.max(r,g,b);
+  const min = Math.min(r,g,b);
+  const delta = max - min;
+
+  let hue = 0;
+
+  if(delta === 0) hue = 0;
+  else if(max === r) hue = 60 * (((g-b)/delta) % 6);
+  else if(max === g) hue = 60 * (((b-r)/delta) + 2);
+  else hue = 60 * (((r-g)/delta) + 4);
+
+  if(hue < 0) hue += 360;
+
+  const black = Math.round((100 - (max/255)*100));
+  const chroma = Math.round((delta/255)*100);
+
+  const hueNumber = Math.round(hue/3.6);
+
+  return `${black}${chroma}-${hueNumber}Y`;
+}
 </script>
+
 </body>
 </html>
