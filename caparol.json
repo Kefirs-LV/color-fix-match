@@ -1,0 +1,8186 @@
+[
+  {
+    "name": "Caparol Agave 10",
+    "r": 148,
+    "g": 148,
+    "b": 143
+  },
+  {
+    "name": "Caparol Agave 100",
+    "r": 132,
+    "g": 166,
+    "b": 121
+  },
+  {
+    "name": "Caparol Agave 105",
+    "r": 173,
+    "g": 218,
+    "b": 170
+  },
+  {
+    "name": "Caparol Agave 110",
+    "r": 204,
+    "g": 229,
+    "b": 192
+  },
+  {
+    "name": "Caparol Agave 115",
+    "r": 221,
+    "g": 236,
+    "b": 213
+  },
+  {
+    "name": "Caparol Agave 120",
+    "r": 228,
+    "g": 237,
+    "b": 223
+  },
+  {
+    "name": "Caparol Agave 125",
+    "r": 98,
+    "g": 167,
+    "b": 87
+  },
+  {
+    "name": "Caparol Agave 130",
+    "r": 125,
+    "g": 180,
+    "b": 112
+  },
+  {
+    "name": "Caparol Agave 135",
+    "r": 127,
+    "g": 189,
+    "b": 110
+  },
+  {
+    "name": "Caparol Agave 140",
+    "r": 154,
+    "g": 199,
+    "b": 137
+  },
+  {
+    "name": "Caparol Agave 145",
+    "r": 162,
+    "g": 211,
+    "b": 151
+  },
+  {
+    "name": "Caparol Agave 15",
+    "r": 172,
+    "g": 172,
+    "b": 167
+  },
+  {
+    "name": "Caparol Agave 150",
+    "r": 193,
+    "g": 229,
+    "b": 182
+  },
+  {
+    "name": "Caparol Agave 20",
+    "r": 197,
+    "g": 198,
+    "b": 192
+  },
+  {
+    "name": "Caparol Agave 25",
+    "r": 212,
+    "g": 212,
+    "b": 205
+  },
+  {
+    "name": "Caparol Agave 30",
+    "r": 233,
+    "g": 232,
+    "b": 225
+  },
+  {
+    "name": "Caparol Agave 35",
+    "r": 138,
+    "g": 146,
+    "b": 131
+  },
+  {
+    "name": "Caparol Agave 40",
+    "r": 168,
+    "g": 175,
+    "b": 163
+  },
+  {
+    "name": "Caparol Agave 45",
+    "r": 195,
+    "g": 199,
+    "b": 189
+  },
+  {
+    "name": "Caparol Agave 5",
+    "r": 119,
+    "g": 119,
+    "b": 115
+  },
+  {
+    "name": "Caparol Agave 50",
+    "r": 218,
+    "g": 221,
+    "b": 210
+  },
+  {
+    "name": "Caparol Agave 55",
+    "r": 230,
+    "g": 232,
+    "b": 223
+  },
+  {
+    "name": "Caparol Agave 60",
+    "r": 238,
+    "g": 237,
+    "b": 229
+  },
+  {
+    "name": "Caparol Agave 65",
+    "r": 144,
+    "g": 160,
+    "b": 134
+  },
+  {
+    "name": "Caparol Agave 70",
+    "r": 164,
+    "g": 189,
+    "b": 152
+  },
+  {
+    "name": "Caparol Agave 75",
+    "r": 175,
+    "g": 188,
+    "b": 167
+  },
+  {
+    "name": "Caparol Agave 80",
+    "r": 196,
+    "g": 217,
+    "b": 192
+  },
+  {
+    "name": "Caparol Agave 85",
+    "r": 207,
+    "g": 214,
+    "b": 200
+  },
+  {
+    "name": "Caparol Agave 90",
+    "r": 222,
+    "g": 226,
+    "b": 218
+  },
+  {
+    "name": "Caparol Agave 95",
+    "r": 98,
+    "g": 141,
+    "b": 85
+  },
+  {
+    "name": "Caparol Amber 10",
+    "r": 130,
+    "g": 110,
+    "b": 97
+  },
+  {
+    "name": "Caparol Amber 100",
+    "r": 223,
+    "g": 143,
+    "b": 79
+  },
+  {
+    "name": "Caparol Amber 105",
+    "r": 230,
+    "g": 161,
+    "b": 106
+  },
+  {
+    "name": "Caparol Amber 110",
+    "r": 237,
+    "g": 178,
+    "b": 134
+  },
+  {
+    "name": "Caparol Amber 115",
+    "r": 242,
+    "g": 196,
+    "b": 163
+  },
+  {
+    "name": "Caparol Amber 120",
+    "r": 246,
+    "g": 214,
+    "b": 192
+  },
+  {
+    "name": "Caparol Amber 125",
+    "r": 249,
+    "g": 136,
+    "b": 43
+  },
+  {
+    "name": "Caparol Amber 130",
+    "r": 254,
+    "g": 154,
+    "b": 70
+  },
+  {
+    "name": "Caparol Amber 135",
+    "r": 255,
+    "g": 169,
+    "b": 100
+  },
+  {
+    "name": "Caparol Amber 140",
+    "r": 255,
+    "g": 187,
+    "b": 133
+  },
+  {
+    "name": "Caparol Amber 145",
+    "r": 255,
+    "g": 201,
+    "b": 160
+  },
+  {
+    "name": "Caparol Amber 15",
+    "r": 152,
+    "g": 135,
+    "b": 122
+  },
+  {
+    "name": "Caparol Amber 150",
+    "r": 255,
+    "g": 217,
+    "b": 191
+  },
+  {
+    "name": "Caparol Amber 20",
+    "r": 171,
+    "g": 155,
+    "b": 145
+  },
+  {
+    "name": "Caparol Amber 25",
+    "r": 193,
+    "g": 179,
+    "b": 170
+  },
+  {
+    "name": "Caparol Amber 30",
+    "r": 215,
+    "g": 204,
+    "b": 196
+  },
+  {
+    "name": "Caparol Amber 35",
+    "r": 141,
+    "g": 99,
+    "b": 67
+  },
+  {
+    "name": "Caparol Amber 40",
+    "r": 161,
+    "g": 121,
+    "b": 92
+  },
+  {
+    "name": "Caparol Amber 45",
+    "r": 178,
+    "g": 142,
+    "b": 117
+  },
+  {
+    "name": "Caparol Amber 5",
+    "r": 106,
+    "g": 86,
+    "b": 73
+  },
+  {
+    "name": "Caparol Amber 50",
+    "r": 194,
+    "g": 163,
+    "b": 142
+  },
+  {
+    "name": "Caparol Amber 55",
+    "r": 211,
+    "g": 186,
+    "b": 169
+  },
+  {
+    "name": "Caparol Amber 60",
+    "r": 224,
+    "g": 206,
+    "b": 193
+  },
+  {
+    "name": "Caparol Amber 65",
+    "r": 181,
+    "g": 114,
+    "b": 63
+  },
+  {
+    "name": "Caparol Amber 70",
+    "r": 192,
+    "g": 131,
+    "b": 85
+  },
+  {
+    "name": "Caparol Amber 75",
+    "r": 204,
+    "g": 150,
+    "b": 112
+  },
+  {
+    "name": "Caparol Amber 80",
+    "r": 216,
+    "g": 171,
+    "b": 138
+  },
+  {
+    "name": "Caparol Amber 85",
+    "r": 225,
+    "g": 191,
+    "b": 165
+  },
+  {
+    "name": "Caparol Amber 90",
+    "r": 235,
+    "g": 211,
+    "b": 194
+  },
+  {
+    "name": "Caparol Amber 95",
+    "r": 215,
+    "g": 126,
+    "b": 53
+  },
+  {
+    "name": "Caparol Aprico 10",
+    "r": 191,
+    "g": 167,
+    "b": 157
+  },
+  {
+    "name": "Caparol Aprico 100",
+    "r": 209,
+    "g": 140,
+    "b": 110
+  },
+  {
+    "name": "Caparol Aprico 105",
+    "r": 195,
+    "g": 141,
+    "b": 118
+  },
+  {
+    "name": "Caparol Aprico 110",
+    "r": 225,
+    "g": 154,
+    "b": 123
+  },
+  {
+    "name": "Caparol Aprico 115",
+    "r": 239,
+    "g": 167,
+    "b": 135
+  },
+  {
+    "name": "Caparol Aprico 120",
+    "r": 231,
+    "g": 168,
+    "b": 141
+  },
+  {
+    "name": "Caparol Aprico 125",
+    "r": 197,
+    "g": 106,
+    "b": 70
+  },
+  {
+    "name": "Caparol Aprico 130",
+    "r": 211,
+    "g": 126,
+    "b": 88
+  },
+  {
+    "name": "Caparol Aprico 135",
+    "r": 201,
+    "g": 125,
+    "b": 93
+  },
+  {
+    "name": "Caparol Aprico 140",
+    "r": 242,
+    "g": 125,
+    "b": 77
+  },
+  {
+    "name": "Caparol Aprico 145",
+    "r": 254,
+    "g": 133,
+    "b": 81
+  },
+  {
+    "name": "Caparol Aprico 15",
+    "r": 212,
+    "g": 197,
+    "b": 189
+  },
+  {
+    "name": "Caparol Aprico 150",
+    "r": 255,
+    "g": 175,
+    "b": 142
+  },
+  {
+    "name": "Caparol Aprico 155",
+    "r": 215,
+    "g": 112,
+    "b": 64
+  },
+  {
+    "name": "Caparol Aprico 160",
+    "r": 233,
+    "g": 141,
+    "b": 100
+  },
+  {
+    "name": "Caparol Aprico 165",
+    "r": 249,
+    "g": 168,
+    "b": 131
+  },
+  {
+    "name": "Caparol Aprico 170",
+    "r": 253,
+    "g": 191,
+    "b": 161
+  },
+  {
+    "name": "Caparol Aprico 175",
+    "r": 253,
+    "g": 215,
+    "b": 199
+  },
+  {
+    "name": "Caparol Aprico 180",
+    "r": 246,
+    "g": 225,
+    "b": 213
+  },
+  {
+    "name": "Caparol Aprico 20",
+    "r": 221,
+    "g": 210,
+    "b": 204
+  },
+  {
+    "name": "Caparol Aprico 25",
+    "r": 233,
+    "g": 226,
+    "b": 221
+  },
+  {
+    "name": "Caparol Aprico 30",
+    "r": 233,
+    "g": 229,
+    "b": 224
+  },
+  {
+    "name": "Caparol Aprico 35",
+    "r": 148,
+    "g": 115,
+    "b": 102
+  },
+  {
+    "name": "Caparol Aprico 40",
+    "r": 167,
+    "g": 136,
+    "b": 123
+  },
+  {
+    "name": "Caparol Aprico 45",
+    "r": 213,
+    "g": 173,
+    "b": 159
+  },
+  {
+    "name": "Caparol Aprico 5",
+    "r": 179,
+    "g": 154,
+    "b": 143
+  },
+  {
+    "name": "Caparol Aprico 50",
+    "r": 224,
+    "g": 193,
+    "b": 180
+  },
+  {
+    "name": "Caparol Aprico 55",
+    "r": 238,
+    "g": 205,
+    "b": 192
+  },
+  {
+    "name": "Caparol Aprico 60",
+    "r": 245,
+    "g": 221,
+    "b": 208
+  },
+  {
+    "name": "Caparol Aprico 65",
+    "r": 177,
+    "g": 136,
+    "b": 118
+  },
+  {
+    "name": "Caparol Aprico 70",
+    "r": 188,
+    "g": 149,
+    "b": 132
+  },
+  {
+    "name": "Caparol Aprico 75",
+    "r": 228,
+    "g": 173,
+    "b": 149
+  },
+  {
+    "name": "Caparol Aprico 80",
+    "r": 232,
+    "g": 186,
+    "b": 168
+  },
+  {
+    "name": "Caparol Aprico 85",
+    "r": 229,
+    "g": 188,
+    "b": 173
+  },
+  {
+    "name": "Caparol Aprico 90",
+    "r": 242,
+    "g": 202,
+    "b": 185
+  },
+  {
+    "name": "Caparol Aprico 95",
+    "r": 161,
+    "g": 113,
+    "b": 92
+  },
+  {
+    "name": "Caparol Aquarell 10",
+    "r": 183,
+    "g": 186,
+    "b": 191
+  },
+  {
+    "name": "Caparol Aquarell 100",
+    "r": 107,
+    "g": 156,
+    "b": 209
+  },
+  {
+    "name": "Caparol Aquarell 105",
+    "r": 152,
+    "g": 184,
+    "b": 222
+  },
+  {
+    "name": "Caparol Aquarell 110",
+    "r": 177,
+    "g": 198,
+    "b": 225
+  },
+  {
+    "name": "Caparol Aquarell 115",
+    "r": 221,
+    "g": 226,
+    "b": 231
+  },
+  {
+    "name": "Caparol Aquarell 120",
+    "r": 232,
+    "g": 232,
+    "b": 231
+  },
+  {
+    "name": "Caparol Aquarell 15",
+    "r": 198,
+    "g": 200,
+    "b": 204
+  },
+  {
+    "name": "Caparol Aquarell 20",
+    "r": 212,
+    "g": 213,
+    "b": 213
+  },
+  {
+    "name": "Caparol Aquarell 25",
+    "r": 229,
+    "g": 227,
+    "b": 224
+  },
+  {
+    "name": "Caparol Aquarell 30",
+    "r": 234,
+    "g": 232,
+    "b": 228
+  },
+  {
+    "name": "Caparol Aquarell 35",
+    "r": 162,
+    "g": 171,
+    "b": 187
+  },
+  {
+    "name": "Caparol Aquarell 40",
+    "r": 172,
+    "g": 178,
+    "b": 188
+  },
+  {
+    "name": "Caparol Aquarell 45",
+    "r": 193,
+    "g": 199,
+    "b": 207
+  },
+  {
+    "name": "Caparol Aquarell 5",
+    "r": 153,
+    "g": 159,
+    "b": 168
+  },
+  {
+    "name": "Caparol Aquarell 50",
+    "r": 210,
+    "g": 212,
+    "b": 216
+  },
+  {
+    "name": "Caparol Aquarell 55",
+    "r": 225,
+    "g": 226,
+    "b": 228
+  },
+  {
+    "name": "Caparol Aquarell 60",
+    "r": 230,
+    "g": 230,
+    "b": 230
+  },
+  {
+    "name": "Caparol Aquarell 65",
+    "r": 110,
+    "g": 121,
+    "b": 143
+  },
+  {
+    "name": "Caparol Aquarell 70",
+    "r": 133,
+    "g": 146,
+    "b": 168
+  },
+  {
+    "name": "Caparol Aquarell 75",
+    "r": 159,
+    "g": 173,
+    "b": 193
+  },
+  {
+    "name": "Caparol Aquarell 80",
+    "r": 187,
+    "g": 198,
+    "b": 215
+  },
+  {
+    "name": "Caparol Aquarell 85",
+    "r": 202,
+    "g": 210,
+    "b": 225
+  },
+  {
+    "name": "Caparol Aquarell 90",
+    "r": 222,
+    "g": 229,
+    "b": 232
+  },
+  {
+    "name": "Caparol Aquarell 95",
+    "r": 84,
+    "g": 130,
+    "b": 183
+  },
+  {
+    "name": "Caparol Arctis 10",
+    "r": 124,
+    "g": 132,
+    "b": 136
+  },
+  {
+    "name": "Caparol Arctis 100",
+    "r": 99,
+    "g": 136,
+    "b": 147
+  },
+  {
+    "name": "Caparol Arctis 105",
+    "r": 125,
+    "g": 164,
+    "b": 173
+  },
+  {
+    "name": "Caparol Arctis 110",
+    "r": 118,
+    "g": 192,
+    "b": 207
+  },
+  {
+    "name": "Caparol Arctis 115",
+    "r": 163,
+    "g": 204,
+    "b": 212
+  },
+  {
+    "name": "Caparol Arctis 120",
+    "r": 183,
+    "g": 220,
+    "b": 228
+  },
+  {
+    "name": "Caparol Arctis 15",
+    "r": 152,
+    "g": 160,
+    "b": 162
+  },
+  {
+    "name": "Caparol Arctis 20",
+    "r": 179,
+    "g": 187,
+    "b": 187
+  },
+  {
+    "name": "Caparol Arctis 25",
+    "r": 207,
+    "g": 213,
+    "b": 212
+  },
+  {
+    "name": "Caparol Arctis 30",
+    "r": 222,
+    "g": 223,
+    "b": 220
+  },
+  {
+    "name": "Caparol Arctis 35",
+    "r": 97,
+    "g": 123,
+    "b": 132
+  },
+  {
+    "name": "Caparol Arctis 40",
+    "r": 105,
+    "g": 120,
+    "b": 125
+  },
+  {
+    "name": "Caparol Arctis 45",
+    "r": 128,
+    "g": 144,
+    "b": 148
+  },
+  {
+    "name": "Caparol Arctis 5",
+    "r": 99,
+    "g": 107,
+    "b": 110
+  },
+  {
+    "name": "Caparol Arctis 50",
+    "r": 161,
+    "g": 173,
+    "b": 175
+  },
+  {
+    "name": "Caparol Arctis 55",
+    "r": 192,
+    "g": 201,
+    "b": 201
+  },
+  {
+    "name": "Caparol Arctis 60",
+    "r": 222,
+    "g": 228,
+    "b": 225
+  },
+  {
+    "name": "Caparol Arctis 65",
+    "r": 118,
+    "g": 148,
+    "b": 155
+  },
+  {
+    "name": "Caparol Arctis 70",
+    "r": 149,
+    "g": 175,
+    "b": 180
+  },
+  {
+    "name": "Caparol Arctis 75",
+    "r": 157,
+    "g": 190,
+    "b": 197
+  },
+  {
+    "name": "Caparol Arctis 80",
+    "r": 182,
+    "g": 201,
+    "b": 204
+  },
+  {
+    "name": "Caparol Arctis 85",
+    "r": 187,
+    "g": 216,
+    "b": 220
+  },
+  {
+    "name": "Caparol Arctis 90",
+    "r": 198,
+    "g": 215,
+    "b": 216
+  },
+  {
+    "name": "Caparol Arctis 95",
+    "r": 66,
+    "g": 115,
+    "b": 126
+  },
+  {
+    "name": "Caparol Baccara 10",
+    "r": 138,
+    "g": 81,
+    "b": 89
+  },
+  {
+    "name": "Caparol Baccara 15",
+    "r": 198,
+    "g": 105,
+    "b": 118
+  },
+  {
+    "name": "Caparol Baccara 20",
+    "r": 226,
+    "g": 131,
+    "b": 144
+  },
+  {
+    "name": "Caparol Baccara 25",
+    "r": 239,
+    "g": 165,
+    "b": 173
+  },
+  {
+    "name": "Caparol Baccara 30",
+    "r": 243,
+    "g": 208,
+    "b": 209
+  },
+  {
+    "name": "Caparol Baccara 5",
+    "r": 108,
+    "g": 72,
+    "b": 73
+  },
+  {
+    "name": "Caparol Barolo 10",
+    "r": 112,
+    "g": 91,
+    "b": 90
+  },
+  {
+    "name": "Caparol Barolo 100",
+    "r": 165,
+    "g": 100,
+    "b": 111
+  },
+  {
+    "name": "Caparol Barolo 105",
+    "r": 183,
+    "g": 121,
+    "b": 120
+  },
+  {
+    "name": "Caparol Barolo 110",
+    "r": 198,
+    "g": 148,
+    "b": 148
+  },
+  {
+    "name": "Caparol Barolo 115",
+    "r": 216,
+    "g": 182,
+    "b": 179
+  },
+  {
+    "name": "Caparol Barolo 120",
+    "r": 233,
+    "g": 213,
+    "b": 210
+  },
+  {
+    "name": "Caparol Barolo 125",
+    "r": 161,
+    "g": 57,
+    "b": 66
+  },
+  {
+    "name": "Caparol Barolo 130",
+    "r": 177,
+    "g": 86,
+    "b": 91
+  },
+  {
+    "name": "Caparol Barolo 135",
+    "r": 196,
+    "g": 119,
+    "b": 119
+  },
+  {
+    "name": "Caparol Barolo 140",
+    "r": 211,
+    "g": 153,
+    "b": 152
+  },
+  {
+    "name": "Caparol Barolo 145",
+    "r": 227,
+    "g": 184,
+    "b": 182
+  },
+  {
+    "name": "Caparol Barolo 15",
+    "r": 136,
+    "g": 116,
+    "b": 116
+  },
+  {
+    "name": "Caparol Barolo 150",
+    "r": 241,
+    "g": 219,
+    "b": 217
+  },
+  {
+    "name": "Caparol Barolo 20",
+    "r": 160,
+    "g": 143,
+    "b": 143
+  },
+  {
+    "name": "Caparol Barolo 25",
+    "r": 185,
+    "g": 172,
+    "b": 171
+  },
+  {
+    "name": "Caparol Barolo 30",
+    "r": 212,
+    "g": 203,
+    "b": 200
+  },
+  {
+    "name": "Caparol Barolo 35",
+    "r": 105,
+    "g": 65,
+    "b": 65
+  },
+  {
+    "name": "Caparol Barolo 40",
+    "r": 129,
+    "g": 90,
+    "b": 90
+  },
+  {
+    "name": "Caparol Barolo 45",
+    "r": 150,
+    "g": 117,
+    "b": 117
+  },
+  {
+    "name": "Caparol Barolo 5",
+    "r": 87,
+    "g": 65,
+    "b": 64
+  },
+  {
+    "name": "Caparol Barolo 50",
+    "r": 172,
+    "g": 145,
+    "b": 144
+  },
+  {
+    "name": "Caparol Barolo 55",
+    "r": 195,
+    "g": 175,
+    "b": 174
+  },
+  {
+    "name": "Caparol Barolo 60",
+    "r": 219,
+    "g": 207,
+    "b": 205
+  },
+  {
+    "name": "Caparol Barolo 65",
+    "r": 121,
+    "g": 62,
+    "b": 66
+  },
+  {
+    "name": "Caparol Barolo 70",
+    "r": 145,
+    "g": 90,
+    "b": 90
+  },
+  {
+    "name": "Caparol Barolo 75",
+    "r": 166,
+    "g": 118,
+    "b": 118
+  },
+  {
+    "name": "Caparol Barolo 80",
+    "r": 185,
+    "g": 148,
+    "b": 147
+  },
+  {
+    "name": "Caparol Barolo 85",
+    "r": 206,
+    "g": 179,
+    "b": 177
+  },
+  {
+    "name": "Caparol Barolo 90",
+    "r": 226,
+    "g": 211,
+    "b": 208
+  },
+  {
+    "name": "Caparol Barolo 95",
+    "r": 138,
+    "g": 60,
+    "b": 65
+  },
+  {
+    "name": "Caparol Blu 10",
+    "r": 62,
+    "g": 153,
+    "b": 167
+  },
+  {
+    "name": "Caparol Blu 15",
+    "r": 49,
+    "g": 73,
+    "b": 90
+  },
+  {
+    "name": "Caparol Blu 20",
+    "r": 0,
+    "g": 100,
+    "b": 126
+  },
+  {
+    "name": "Caparol Blu 25",
+    "r": 62,
+    "g": 83,
+    "b": 101
+  },
+  {
+    "name": "Caparol Blu 30",
+    "r": 65,
+    "g": 106,
+    "b": 138
+  },
+  {
+    "name": "Caparol Blu 5",
+    "r": 31,
+    "g": 84,
+    "b": 94
+  },
+  {
+    "name": "Caparol Bordeaux 10",
+    "r": 187,
+    "g": 151,
+    "b": 144
+  },
+  {
+    "name": "Caparol Bordeaux 15",
+    "r": 189,
+    "g": 165,
+    "b": 160
+  },
+  {
+    "name": "Caparol Bordeaux 20",
+    "r": 199,
+    "g": 180,
+    "b": 176
+  },
+  {
+    "name": "Caparol Bordeaux 25",
+    "r": 219,
+    "g": 209,
+    "b": 206
+  },
+  {
+    "name": "Caparol Bordeaux 30",
+    "r": 234,
+    "g": 223,
+    "b": 218
+  },
+  {
+    "name": "Caparol Bordeaux 35",
+    "r": 130,
+    "g": 84,
+    "b": 78
+  },
+  {
+    "name": "Caparol Bordeaux 40",
+    "r": 157,
+    "g": 105,
+    "b": 97
+  },
+  {
+    "name": "Caparol Bordeaux 45",
+    "r": 178,
+    "g": 113,
+    "b": 104
+  },
+  {
+    "name": "Caparol Bordeaux 5",
+    "r": 169,
+    "g": 138,
+    "b": 132
+  },
+  {
+    "name": "Caparol Bordeaux 50",
+    "r": 186,
+    "g": 130,
+    "b": 121
+  },
+  {
+    "name": "Caparol Bordeaux 55",
+    "r": 208,
+    "g": 160,
+    "b": 154
+  },
+  {
+    "name": "Caparol Bordeaux 60",
+    "r": 230,
+    "g": 192,
+    "b": 185
+  },
+  {
+    "name": "Caparol Bordeaux 65",
+    "r": 164,
+    "g": 71,
+    "b": 64
+  },
+  {
+    "name": "Caparol Bordeaux 70",
+    "r": 173,
+    "g": 93,
+    "b": 85
+  },
+  {
+    "name": "Caparol Bordeaux 75",
+    "r": 174,
+    "g": 97,
+    "b": 88
+  },
+  {
+    "name": "Caparol Bordeaux 80",
+    "r": 209,
+    "g": 120,
+    "b": 106
+  },
+  {
+    "name": "Caparol Bordeaux 85",
+    "r": 253,
+    "g": 157,
+    "b": 146
+  },
+  {
+    "name": "Caparol Bordeaux 90",
+    "r": 252,
+    "g": 214,
+    "b": 207
+  },
+  {
+    "name": "Caparol Brasil 10",
+    "r": 243,
+    "g": 125,
+    "b": 45
+  },
+  {
+    "name": "Caparol Brasil 15",
+    "r": 103,
+    "g": 76,
+    "b": 63
+  },
+  {
+    "name": "Caparol Brasil 20",
+    "r": 188,
+    "g": 121,
+    "b": 69
+  },
+  {
+    "name": "Caparol Brasil 25",
+    "r": 91,
+    "g": 82,
+    "b": 73
+  },
+  {
+    "name": "Caparol Brasil 30",
+    "r": 255,
+    "g": 180,
+    "b": 4
+  },
+  {
+    "name": "Caparol Brasil 5",
+    "r": 95,
+    "g": 68,
+    "b": 67
+  },
+  {
+    "name": "Caparol Cameo 10",
+    "r": 181,
+    "g": 169,
+    "b": 167
+  },
+  {
+    "name": "Caparol Cameo 100",
+    "r": 174,
+    "g": 121,
+    "b": 108
+  },
+  {
+    "name": "Caparol Cameo 105",
+    "r": 222,
+    "g": 154,
+    "b": 140
+  },
+  {
+    "name": "Caparol Cameo 110",
+    "r": 222,
+    "g": 173,
+    "b": 161
+  },
+  {
+    "name": "Caparol Cameo 115",
+    "r": 236,
+    "g": 197,
+    "b": 189
+  },
+  {
+    "name": "Caparol Cameo 120",
+    "r": 248,
+    "g": 218,
+    "b": 208
+  },
+  {
+    "name": "Caparol Cameo 125",
+    "r": 160,
+    "g": 83,
+    "b": 68
+  },
+  {
+    "name": "Caparol Cameo 130",
+    "r": 173,
+    "g": 103,
+    "b": 90
+  },
+  {
+    "name": "Caparol Cameo 135",
+    "r": 198,
+    "g": 127,
+    "b": 109
+  },
+  {
+    "name": "Caparol Cameo 140",
+    "r": 244,
+    "g": 165,
+    "b": 148
+  },
+  {
+    "name": "Caparol Cameo 145",
+    "r": 243,
+    "g": 182,
+    "b": 168
+  },
+  {
+    "name": "Caparol Cameo 15",
+    "r": 204,
+    "g": 197,
+    "b": 194
+  },
+  {
+    "name": "Caparol Cameo 150",
+    "r": 247,
+    "g": 223,
+    "b": 215
+  },
+  {
+    "name": "Caparol Cameo 155",
+    "r": 206,
+    "g": 93,
+    "b": 75
+  },
+  {
+    "name": "Caparol Cameo 160",
+    "r": 217,
+    "g": 89,
+    "b": 69
+  },
+  {
+    "name": "Caparol Cameo 165",
+    "r": 226,
+    "g": 93,
+    "b": 68
+  },
+  {
+    "name": "Caparol Cameo 170",
+    "r": 235,
+    "g": 125,
+    "b": 101
+  },
+  {
+    "name": "Caparol Cameo 175",
+    "r": 255,
+    "g": 160,
+    "b": 141
+  },
+  {
+    "name": "Caparol Cameo 180",
+    "r": 255,
+    "g": 195,
+    "b": 181
+  },
+  {
+    "name": "Caparol Cameo 20",
+    "r": 219,
+    "g": 207,
+    "b": 202
+  },
+  {
+    "name": "Caparol Cameo 25",
+    "r": 231,
+    "g": 226,
+    "b": 222
+  },
+  {
+    "name": "Caparol Cameo 30",
+    "r": 235,
+    "g": 230,
+    "b": 225
+  },
+  {
+    "name": "Caparol Cameo 35",
+    "r": 132,
+    "g": 113,
+    "b": 109
+  },
+  {
+    "name": "Caparol Cameo 40",
+    "r": 165,
+    "g": 144,
+    "b": 138
+  },
+  {
+    "name": "Caparol Cameo 45",
+    "r": 189,
+    "g": 163,
+    "b": 156
+  },
+  {
+    "name": "Caparol Cameo 5",
+    "r": 153,
+    "g": 138,
+    "b": 134
+  },
+  {
+    "name": "Caparol Cameo 50",
+    "r": 199,
+    "g": 178,
+    "b": 172
+  },
+  {
+    "name": "Caparol Cameo 55",
+    "r": 226,
+    "g": 209,
+    "b": 205
+  },
+  {
+    "name": "Caparol Cameo 60",
+    "r": 244,
+    "g": 232,
+    "b": 227
+  },
+  {
+    "name": "Caparol Cameo 65",
+    "r": 145,
+    "g": 110,
+    "b": 102
+  },
+  {
+    "name": "Caparol Cameo 70",
+    "r": 169,
+    "g": 135,
+    "b": 127
+  },
+  {
+    "name": "Caparol Cameo 75",
+    "r": 201,
+    "g": 158,
+    "b": 147
+  },
+  {
+    "name": "Caparol Cameo 80",
+    "r": 218,
+    "g": 187,
+    "b": 178
+  },
+  {
+    "name": "Caparol Cameo 85",
+    "r": 233,
+    "g": 207,
+    "b": 201
+  },
+  {
+    "name": "Caparol Cameo 90",
+    "r": 246,
+    "g": 221,
+    "b": 215
+  },
+  {
+    "name": "Caparol Cameo 95",
+    "r": 139,
+    "g": 86,
+    "b": 74
+  },
+  {
+    "name": "Caparol Ceramic 10",
+    "r": 166,
+    "g": 138,
+    "b": 120
+  },
+  {
+    "name": "Caparol Ceramic 15",
+    "r": 190,
+    "g": 163,
+    "b": 146
+  },
+  {
+    "name": "Caparol Ceramic 20",
+    "r": 188,
+    "g": 167,
+    "b": 155
+  },
+  {
+    "name": "Caparol Ceramic 25",
+    "r": 200,
+    "g": 183,
+    "b": 172
+  },
+  {
+    "name": "Caparol Ceramic 30",
+    "r": 211,
+    "g": 196,
+    "b": 187
+  },
+  {
+    "name": "Caparol Ceramic 35",
+    "r": 199,
+    "g": 164,
+    "b": 143
+  },
+  {
+    "name": "Caparol Ceramic 40",
+    "r": 210,
+    "g": 176,
+    "b": 157
+  },
+  {
+    "name": "Caparol Ceramic 45",
+    "r": 223,
+    "g": 186,
+    "b": 163
+  },
+  {
+    "name": "Caparol Ceramic 5",
+    "r": 145,
+    "g": 116,
+    "b": 99
+  },
+  {
+    "name": "Caparol Ceramic 50",
+    "r": 226,
+    "g": 190,
+    "b": 168
+  },
+  {
+    "name": "Caparol Ceramic 55",
+    "r": 222,
+    "g": 196,
+    "b": 179
+  },
+  {
+    "name": "Caparol Ceramic 60",
+    "r": 243,
+    "g": 220,
+    "b": 205
+  },
+  {
+    "name": "Caparol Ceramic 65",
+    "r": 197,
+    "g": 150,
+    "b": 121
+  },
+  {
+    "name": "Caparol Ceramic 70",
+    "r": 221,
+    "g": 171,
+    "b": 140
+  },
+  {
+    "name": "Caparol Ceramic 75",
+    "r": 243,
+    "g": 202,
+    "b": 176
+  },
+  {
+    "name": "Caparol Ceramic 80",
+    "r": 253,
+    "g": 212,
+    "b": 188
+  },
+  {
+    "name": "Caparol Ceramic 85",
+    "r": 249,
+    "g": 223,
+    "b": 207
+  },
+  {
+    "name": "Caparol Ceramic 90",
+    "r": 243,
+    "g": 231,
+    "b": 223
+  },
+  {
+    "name": "Caparol Citrus 10",
+    "r": 126,
+    "g": 116,
+    "b": 89
+  },
+  {
+    "name": "Caparol Citrus 100",
+    "r": 255,
+    "g": 218,
+    "b": 68
+  },
+  {
+    "name": "Caparol Citrus 105",
+    "r": 253,
+    "g": 220,
+    "b": 90
+  },
+  {
+    "name": "Caparol Citrus 110",
+    "r": 253,
+    "g": 222,
+    "b": 119
+  },
+  {
+    "name": "Caparol Citrus 115",
+    "r": 252,
+    "g": 225,
+    "b": 147
+  },
+  {
+    "name": "Caparol Citrus 120",
+    "r": 250,
+    "g": 229,
+    "b": 171
+  },
+  {
+    "name": "Caparol Citrus 15",
+    "r": 151,
+    "g": 141,
+    "b": 116
+  },
+  {
+    "name": "Caparol Citrus 20",
+    "r": 174,
+    "g": 165,
+    "b": 145
+  },
+  {
+    "name": "Caparol Citrus 25",
+    "r": 198,
+    "g": 190,
+    "b": 173
+  },
+  {
+    "name": "Caparol Citrus 30",
+    "r": 221,
+    "g": 216,
+    "b": 203
+  },
+  {
+    "name": "Caparol Citrus 35",
+    "r": 155,
+    "g": 134,
+    "b": 59
+  },
+  {
+    "name": "Caparol Citrus 40",
+    "r": 172,
+    "g": 150,
+    "b": 82
+  },
+  {
+    "name": "Caparol Citrus 45",
+    "r": 189,
+    "g": 168,
+    "b": 110
+  },
+  {
+    "name": "Caparol Citrus 5",
+    "r": 104,
+    "g": 94,
+    "b": 64
+  },
+  {
+    "name": "Caparol Citrus 50",
+    "r": 203,
+    "g": 185,
+    "b": 136
+  },
+  {
+    "name": "Caparol Citrus 55",
+    "r": 218,
+    "g": 203,
+    "b": 164
+  },
+  {
+    "name": "Caparol Citrus 60",
+    "r": 231,
+    "g": 220,
+    "b": 194
+  },
+  {
+    "name": "Caparol Citrus 65",
+    "r": 219,
+    "g": 185,
+    "b": 51
+  },
+  {
+    "name": "Caparol Citrus 70",
+    "r": 223,
+    "g": 192,
+    "b": 77
+  },
+  {
+    "name": "Caparol Citrus 75",
+    "r": 230,
+    "g": 200,
+    "b": 105
+  },
+  {
+    "name": "Caparol Citrus 80",
+    "r": 236,
+    "g": 209,
+    "b": 132
+  },
+  {
+    "name": "Caparol Citrus 85",
+    "r": 242,
+    "g": 219,
+    "b": 157
+  },
+  {
+    "name": "Caparol Citrus 90",
+    "r": 245,
+    "g": 227,
+    "b": 185
+  },
+  {
+    "name": "Caparol Citrus 95",
+    "r": 255,
+    "g": 215,
+    "b": 39
+  },
+  {
+    "name": "Caparol Coelin 10",
+    "r": 190,
+    "g": 195,
+    "b": 196
+  },
+  {
+    "name": "Caparol Coelin 100",
+    "r": 54,
+    "g": 145,
+    "b": 169
+  },
+  {
+    "name": "Caparol Coelin 105",
+    "r": 94,
+    "g": 171,
+    "b": 193
+  },
+  {
+    "name": "Caparol Coelin 110",
+    "r": 122,
+    "g": 196,
+    "b": 220
+  },
+  {
+    "name": "Caparol Coelin 115",
+    "r": 143,
+    "g": 208,
+    "b": 229
+  },
+  {
+    "name": "Caparol Coelin 120",
+    "r": 174,
+    "g": 210,
+    "b": 222
+  },
+  {
+    "name": "Caparol Coelin 15",
+    "r": 203,
+    "g": 207,
+    "b": 207
+  },
+  {
+    "name": "Caparol Coelin 20",
+    "r": 220,
+    "g": 220,
+    "b": 219
+  },
+  {
+    "name": "Caparol Coelin 25",
+    "r": 229,
+    "g": 232,
+    "b": 231
+  },
+  {
+    "name": "Caparol Coelin 30",
+    "r": 235,
+    "g": 237,
+    "b": 235
+  },
+  {
+    "name": "Caparol Coelin 35",
+    "r": 160,
+    "g": 176,
+    "b": 181
+  },
+  {
+    "name": "Caparol Coelin 40",
+    "r": 178,
+    "g": 189,
+    "b": 194
+  },
+  {
+    "name": "Caparol Coelin 45",
+    "r": 189,
+    "g": 201,
+    "b": 204
+  },
+  {
+    "name": "Caparol Coelin 5",
+    "r": 175,
+    "g": 181,
+    "b": 184
+  },
+  {
+    "name": "Caparol Coelin 50",
+    "r": 205,
+    "g": 214,
+    "b": 216
+  },
+  {
+    "name": "Caparol Coelin 55",
+    "r": 219,
+    "g": 226,
+    "b": 226
+  },
+  {
+    "name": "Caparol Coelin 60",
+    "r": 224,
+    "g": 233,
+    "b": 234
+  },
+  {
+    "name": "Caparol Coelin 65",
+    "r": 123,
+    "g": 166,
+    "b": 181
+  },
+  {
+    "name": "Caparol Coelin 70",
+    "r": 134,
+    "g": 178,
+    "b": 194
+  },
+  {
+    "name": "Caparol Coelin 75",
+    "r": 152,
+    "g": 193,
+    "b": 207
+  },
+  {
+    "name": "Caparol Coelin 80",
+    "r": 167,
+    "g": 204,
+    "b": 217
+  },
+  {
+    "name": "Caparol Coelin 85",
+    "r": 182,
+    "g": 215,
+    "b": 225
+  },
+  {
+    "name": "Caparol Coelin 90",
+    "r": 207,
+    "g": 228,
+    "b": 231
+  },
+  {
+    "name": "Caparol Coelin 95",
+    "r": 0,
+    "g": 116,
+    "b": 144
+  },
+  {
+    "name": "Caparol Coelin 95 _27.02.19",
+    "r": 45,
+    "g": 127,
+    "b": 161
+  },
+  {
+    "name": "Caparol Coelin 95 IBF_04.03",
+    "r": 54,
+    "g": 123,
+    "b": 149
+  },
+  {
+    "name": "Caparol Coelin 95 IBF_26.02.19",
+    "r": 40,
+    "g": 130,
+    "b": 166
+  },
+  {
+    "name": "Caparol Curcuma 10",
+    "r": 135,
+    "g": 117,
+    "b": 91
+  },
+  {
+    "name": "Caparol Curcuma 100",
+    "r": 252,
+    "g": 190,
+    "b": 59
+  },
+  {
+    "name": "Caparol Curcuma 105",
+    "r": 255,
+    "g": 199,
+    "b": 95
+  },
+  {
+    "name": "Caparol Curcuma 110",
+    "r": 254,
+    "g": 209,
+    "b": 130
+  },
+  {
+    "name": "Caparol Curcuma 115",
+    "r": 253,
+    "g": 218,
+    "b": 160
+  },
+  {
+    "name": "Caparol Curcuma 120",
+    "r": 249,
+    "g": 225,
+    "b": 191
+  },
+  {
+    "name": "Caparol Curcuma 15",
+    "r": 157,
+    "g": 141,
+    "b": 119
+  },
+  {
+    "name": "Caparol Curcuma 20",
+    "r": 177,
+    "g": 164,
+    "b": 145
+  },
+  {
+    "name": "Caparol Curcuma 25",
+    "r": 200,
+    "g": 188,
+    "b": 173
+  },
+  {
+    "name": "Caparol Curcuma 30",
+    "r": 220,
+    "g": 213,
+    "b": 203
+  },
+  {
+    "name": "Caparol Curcuma 35",
+    "r": 154,
+    "g": 121,
+    "b": 57
+  },
+  {
+    "name": "Caparol Curcuma 40",
+    "r": 171,
+    "g": 139,
+    "b": 84
+  },
+  {
+    "name": "Caparol Curcuma 45",
+    "r": 186,
+    "g": 157,
+    "b": 112
+  },
+  {
+    "name": "Caparol Curcuma 5",
+    "r": 116,
+    "g": 98,
+    "b": 69
+  },
+  {
+    "name": "Caparol Curcuma 50",
+    "r": 201,
+    "g": 176,
+    "b": 139
+  },
+  {
+    "name": "Caparol Curcuma 55",
+    "r": 215,
+    "g": 198,
+    "b": 172
+  },
+  {
+    "name": "Caparol Curcuma 60",
+    "r": 229,
+    "g": 217,
+    "b": 200
+  },
+  {
+    "name": "Caparol Curcuma 65",
+    "r": 210,
+    "g": 155,
+    "b": 42
+  },
+  {
+    "name": "Caparol Curcuma 70",
+    "r": 215,
+    "g": 167,
+    "b": 76
+  },
+  {
+    "name": "Caparol Curcuma 75",
+    "r": 224,
+    "g": 180,
+    "b": 105
+  },
+  {
+    "name": "Caparol Curcuma 80",
+    "r": 230,
+    "g": 193,
+    "b": 134
+  },
+  {
+    "name": "Caparol Curcuma 85",
+    "r": 234,
+    "g": 207,
+    "b": 168
+  },
+  {
+    "name": "Caparol Curcuma 90",
+    "r": 235,
+    "g": 219,
+    "b": 196
+  },
+  {
+    "name": "Caparol Curcuma 95",
+    "r": 254,
+    "g": 180,
+    "b": 6
+  },
+  {
+    "name": "Caparol Curry 10",
+    "r": 206,
+    "g": 194,
+    "b": 170
+  },
+  {
+    "name": "Caparol Curry 100",
+    "r": 196,
+    "g": 167,
+    "b": 99
+  },
+  {
+    "name": "Caparol Curry 105",
+    "r": 229,
+    "g": 194,
+    "b": 121
+  },
+  {
+    "name": "Caparol Curry 110",
+    "r": 239,
+    "g": 208,
+    "b": 144
+  },
+  {
+    "name": "Caparol Curry 115",
+    "r": 246,
+    "g": 215,
+    "b": 143
+  },
+  {
+    "name": "Caparol Curry 120",
+    "r": 250,
+    "g": 224,
+    "b": 170
+  },
+  {
+    "name": "Caparol Curry 125",
+    "r": 214,
+    "g": 174,
+    "b": 53
+  },
+  {
+    "name": "Caparol Curry 130",
+    "r": 232,
+    "g": 189,
+    "b": 53
+  },
+  {
+    "name": "Caparol Curry 135",
+    "r": 239,
+    "g": 202,
+    "b": 107
+  },
+  {
+    "name": "Caparol Curry 140",
+    "r": 251,
+    "g": 210,
+    "b": 96
+  },
+  {
+    "name": "Caparol Curry 145",
+    "r": 253,
+    "g": 219,
+    "b": 136
+  },
+  {
+    "name": "Caparol Curry 15",
+    "r": 220,
+    "g": 211,
+    "b": 194
+  },
+  {
+    "name": "Caparol Curry 150",
+    "r": 254,
+    "g": 226,
+    "b": 153
+  },
+  {
+    "name": "Caparol Curry 20",
+    "r": 229,
+    "g": 220,
+    "b": 206
+  },
+  {
+    "name": "Caparol Curry 25",
+    "r": 240,
+    "g": 232,
+    "b": 218
+  },
+  {
+    "name": "Caparol Curry 30",
+    "r": 243,
+    "g": 235,
+    "b": 220
+  },
+  {
+    "name": "Caparol Curry 35",
+    "r": 166,
+    "g": 143,
+    "b": 98
+  },
+  {
+    "name": "Caparol Curry 40",
+    "r": 194,
+    "g": 172,
+    "b": 126
+  },
+  {
+    "name": "Caparol Curry 45",
+    "r": 217,
+    "g": 196,
+    "b": 154
+  },
+  {
+    "name": "Caparol Curry 5",
+    "r": 188,
+    "g": 174,
+    "b": 148
+  },
+  {
+    "name": "Caparol Curry 50",
+    "r": 232,
+    "g": 215,
+    "b": 183
+  },
+  {
+    "name": "Caparol Curry 55",
+    "r": 244,
+    "g": 230,
+    "b": 206
+  },
+  {
+    "name": "Caparol Curry 60",
+    "r": 246,
+    "g": 236,
+    "b": 214
+  },
+  {
+    "name": "Caparol Curry 65",
+    "r": 190,
+    "g": 166,
+    "b": 114
+  },
+  {
+    "name": "Caparol Curry 70",
+    "r": 213,
+    "g": 186,
+    "b": 128
+  },
+  {
+    "name": "Caparol Curry 75",
+    "r": 225,
+    "g": 201,
+    "b": 152
+  },
+  {
+    "name": "Caparol Curry 80",
+    "r": 238,
+    "g": 215,
+    "b": 172
+  },
+  {
+    "name": "Caparol Curry 85",
+    "r": 249,
+    "g": 228,
+    "b": 189
+  },
+  {
+    "name": "Caparol Curry 90",
+    "r": 249,
+    "g": 230,
+    "b": 194
+  },
+  {
+    "name": "Caparol Curry 95",
+    "r": 182,
+    "g": 150,
+    "b": 62
+  },
+  {
+    "name": "Caparol Diva 10",
+    "r": 73,
+    "g": 92,
+    "b": 132
+  },
+  {
+    "name": "Caparol Diva 15",
+    "r": 81,
+    "g": 76,
+    "b": 116
+  },
+  {
+    "name": "Caparol Diva 20",
+    "r": 95,
+    "g": 90,
+    "b": 105
+  },
+  {
+    "name": "Caparol Diva 25",
+    "r": 109,
+    "g": 77,
+    "b": 115
+  },
+  {
+    "name": "Caparol Diva 30",
+    "r": 135,
+    "g": 70,
+    "b": 107
+  },
+  {
+    "name": "Caparol Diva 5",
+    "r": 52,
+    "g": 74,
+    "b": 113
+  },
+  {
+    "name": "Caparol Ferro 10",
+    "r": 92,
+    "g": 88,
+    "b": 87
+  },
+  {
+    "name": "Caparol Ferro 15",
+    "r": 109,
+    "g": 104,
+    "b": 103
+  },
+  {
+    "name": "Caparol Ferro 20",
+    "r": 121,
+    "g": 116,
+    "b": 115
+  },
+  {
+    "name": "Caparol Ferro 25",
+    "r": 134,
+    "g": 129,
+    "b": 127
+  },
+  {
+    "name": "Caparol Ferro 30",
+    "r": 147,
+    "g": 141,
+    "b": 140
+  },
+  {
+    "name": "Caparol Ferro 35",
+    "r": 160,
+    "g": 155,
+    "b": 153
+  },
+  {
+    "name": "Caparol Ferro 40",
+    "r": 173,
+    "g": 167,
+    "b": 165
+  },
+  {
+    "name": "Caparol Ferro 45",
+    "r": 187,
+    "g": 181,
+    "b": 179
+  },
+  {
+    "name": "Caparol Ferro 5",
+    "r": 76,
+    "g": 71,
+    "b": 71
+  },
+  {
+    "name": "Caparol Ferro 50",
+    "r": 202,
+    "g": 197,
+    "b": 194
+  },
+  {
+    "name": "Caparol Ferro 55",
+    "r": 211,
+    "g": 208,
+    "b": 205
+  },
+  {
+    "name": "Caparol Ferro 60",
+    "r": 223,
+    "g": 219,
+    "b": 215
+  },
+  {
+    "name": "Caparol Flamenco 10",
+    "r": 180,
+    "g": 170,
+    "b": 172
+  },
+  {
+    "name": "Caparol Flamenco 100",
+    "r": 138,
+    "g": 97,
+    "b": 109
+  },
+  {
+    "name": "Caparol Flamenco 105",
+    "r": 172,
+    "g": 135,
+    "b": 146
+  },
+  {
+    "name": "Caparol Flamenco 110",
+    "r": 198,
+    "g": 163,
+    "b": 171
+  },
+  {
+    "name": "Caparol Flamenco 115",
+    "r": 222,
+    "g": 191,
+    "b": 197
+  },
+  {
+    "name": "Caparol Flamenco 120",
+    "r": 242,
+    "g": 220,
+    "b": 222
+  },
+  {
+    "name": "Caparol Flamenco 125",
+    "r": 137,
+    "g": 76,
+    "b": 96
+  },
+  {
+    "name": "Caparol Flamenco 130",
+    "r": 154,
+    "g": 92,
+    "b": 112
+  },
+  {
+    "name": "Caparol Flamenco 135",
+    "r": 176,
+    "g": 113,
+    "b": 131
+  },
+  {
+    "name": "Caparol Flamenco 140",
+    "r": 200,
+    "g": 140,
+    "b": 158
+  },
+  {
+    "name": "Caparol Flamenco 145",
+    "r": 230,
+    "g": 169,
+    "b": 188
+  },
+  {
+    "name": "Caparol Flamenco 15",
+    "r": 206,
+    "g": 197,
+    "b": 197
+  },
+  {
+    "name": "Caparol Flamenco 150",
+    "r": 241,
+    "g": 203,
+    "b": 213
+  },
+  {
+    "name": "Caparol Flamenco 20",
+    "r": 219,
+    "g": 211,
+    "b": 209
+  },
+  {
+    "name": "Caparol Flamenco 25",
+    "r": 223,
+    "g": 218,
+    "b": 216
+  },
+  {
+    "name": "Caparol Flamenco 30",
+    "r": 236,
+    "g": 230,
+    "b": 225
+  },
+  {
+    "name": "Caparol Flamenco 35",
+    "r": 132,
+    "g": 114,
+    "b": 119
+  },
+  {
+    "name": "Caparol Flamenco 40",
+    "r": 155,
+    "g": 141,
+    "b": 146
+  },
+  {
+    "name": "Caparol Flamenco 45",
+    "r": 173,
+    "g": 154,
+    "b": 158
+  },
+  {
+    "name": "Caparol Flamenco 5",
+    "r": 129,
+    "g": 121,
+    "b": 122
+  },
+  {
+    "name": "Caparol Flamenco 50",
+    "r": 185,
+    "g": 172,
+    "b": 175
+  },
+  {
+    "name": "Caparol Flamenco 55",
+    "r": 211,
+    "g": 198,
+    "b": 200
+  },
+  {
+    "name": "Caparol Flamenco 60",
+    "r": 234,
+    "g": 225,
+    "b": 221
+  },
+  {
+    "name": "Caparol Flamenco 65",
+    "r": 113,
+    "g": 92,
+    "b": 99
+  },
+  {
+    "name": "Caparol Flamenco 70",
+    "r": 139,
+    "g": 111,
+    "b": 119
+  },
+  {
+    "name": "Caparol Flamenco 75",
+    "r": 164,
+    "g": 138,
+    "b": 145
+  },
+  {
+    "name": "Caparol Flamenco 80",
+    "r": 191,
+    "g": 166,
+    "b": 171
+  },
+  {
+    "name": "Caparol Flamenco 85",
+    "r": 215,
+    "g": 195,
+    "b": 196
+  },
+  {
+    "name": "Caparol Flamenco 90",
+    "r": 242,
+    "g": 229,
+    "b": 227
+  },
+  {
+    "name": "Caparol Flamenco 95",
+    "r": 123,
+    "g": 90,
+    "b": 99
+  },
+  {
+    "name": "Caparol Ginster 10",
+    "r": 192,
+    "g": 179,
+    "b": 164
+  },
+  {
+    "name": "Caparol Ginster 100",
+    "r": 229,
+    "g": 191,
+    "b": 126
+  },
+  {
+    "name": "Caparol Ginster 105",
+    "r": 247,
+    "g": 205,
+    "b": 139
+  },
+  {
+    "name": "Caparol Ginster 110",
+    "r": 241,
+    "g": 206,
+    "b": 145
+  },
+  {
+    "name": "Caparol Ginster 115",
+    "r": 242,
+    "g": 215,
+    "b": 171
+  },
+  {
+    "name": "Caparol Ginster 120",
+    "r": 248,
+    "g": 226,
+    "b": 190
+  },
+  {
+    "name": "Caparol Ginster 125",
+    "r": 236,
+    "g": 172,
+    "b": 31
+  },
+  {
+    "name": "Caparol Ginster 130",
+    "r": 247,
+    "g": 184,
+    "b": 26
+  },
+  {
+    "name": "Caparol Ginster 135",
+    "r": 254,
+    "g": 199,
+    "b": 79
+  },
+  {
+    "name": "Caparol Ginster 140",
+    "r": 250,
+    "g": 202,
+    "b": 110
+  },
+  {
+    "name": "Caparol Ginster 145",
+    "r": 255,
+    "g": 207,
+    "b": 97
+  },
+  {
+    "name": "Caparol Ginster 15",
+    "r": 203,
+    "g": 193,
+    "b": 180
+  },
+  {
+    "name": "Caparol Ginster 150",
+    "r": 253,
+    "g": 216,
+    "b": 149
+  },
+  {
+    "name": "Caparol Ginster 20",
+    "r": 219,
+    "g": 211,
+    "b": 201
+  },
+  {
+    "name": "Caparol Ginster 25",
+    "r": 234,
+    "g": 227,
+    "b": 219
+  },
+  {
+    "name": "Caparol Ginster 30",
+    "r": 234,
+    "g": 229,
+    "b": 223
+  },
+  {
+    "name": "Caparol Ginster 35",
+    "r": 140,
+    "g": 121,
+    "b": 95
+  },
+  {
+    "name": "Caparol Ginster 40",
+    "r": 155,
+    "g": 139,
+    "b": 117
+  },
+  {
+    "name": "Caparol Ginster 45",
+    "r": 183,
+    "g": 167,
+    "b": 144
+  },
+  {
+    "name": "Caparol Ginster 5",
+    "r": 178,
+    "g": 166,
+    "b": 148
+  },
+  {
+    "name": "Caparol Ginster 50",
+    "r": 212,
+    "g": 197,
+    "b": 174
+  },
+  {
+    "name": "Caparol Ginster 55",
+    "r": 226,
+    "g": 212,
+    "b": 190
+  },
+  {
+    "name": "Caparol Ginster 60",
+    "r": 239,
+    "g": 223,
+    "b": 201
+  },
+  {
+    "name": "Caparol Ginster 65",
+    "r": 167,
+    "g": 141,
+    "b": 101
+  },
+  {
+    "name": "Caparol Ginster 70",
+    "r": 194,
+    "g": 168,
+    "b": 128
+  },
+  {
+    "name": "Caparol Ginster 75",
+    "r": 207,
+    "g": 186,
+    "b": 154
+  },
+  {
+    "name": "Caparol Ginster 80",
+    "r": 223,
+    "g": 201,
+    "b": 165
+  },
+  {
+    "name": "Caparol Ginster 85",
+    "r": 239,
+    "g": 217,
+    "b": 183
+  },
+  {
+    "name": "Caparol Ginster 90",
+    "r": 247,
+    "g": 230,
+    "b": 204
+  },
+  {
+    "name": "Caparol Ginster 95",
+    "r": 218,
+    "g": 187,
+    "b": 138
+  },
+  {
+    "name": "Caparol Granit 10",
+    "r": 89,
+    "g": 88,
+    "b": 88
+  },
+  {
+    "name": "Caparol Granit 15",
+    "r": 104,
+    "g": 104,
+    "b": 105
+  },
+  {
+    "name": "Caparol Granit 20",
+    "r": 118,
+    "g": 118,
+    "b": 118
+  },
+  {
+    "name": "Caparol Granit 25",
+    "r": 130,
+    "g": 130,
+    "b": 129
+  },
+  {
+    "name": "Caparol Granit 30",
+    "r": 143,
+    "g": 142,
+    "b": 141
+  },
+  {
+    "name": "Caparol Granit 35",
+    "r": 157,
+    "g": 156,
+    "b": 155
+  },
+  {
+    "name": "Caparol Granit 40",
+    "r": 170,
+    "g": 168,
+    "b": 166
+  },
+  {
+    "name": "Caparol Granit 45",
+    "r": 184,
+    "g": 184,
+    "b": 182
+  },
+  {
+    "name": "Caparol Granit 5",
+    "r": 73,
+    "g": 72,
+    "b": 73
+  },
+  {
+    "name": "Caparol Granit 50",
+    "r": 198,
+    "g": 196,
+    "b": 194
+  },
+  {
+    "name": "Caparol Granit 55",
+    "r": 208,
+    "g": 207,
+    "b": 204
+  },
+  {
+    "name": "Caparol Granit 60",
+    "r": 220,
+    "g": 218,
+    "b": 215
+  },
+  {
+    "name": "Caparol Grenadin 10",
+    "r": 114,
+    "g": 92,
+    "b": 89
+  },
+  {
+    "name": "Caparol Grenadin 100",
+    "r": 168,
+    "g": 95,
+    "b": 89
+  },
+  {
+    "name": "Caparol Grenadin 105",
+    "r": 186,
+    "g": 125,
+    "b": 118
+  },
+  {
+    "name": "Caparol Grenadin 110",
+    "r": 203,
+    "g": 153,
+    "b": 148
+  },
+  {
+    "name": "Caparol Grenadin 115",
+    "r": 219,
+    "g": 182,
+    "b": 176
+  },
+  {
+    "name": "Caparol Grenadin 120",
+    "r": 233,
+    "g": 215,
+    "b": 210
+  },
+  {
+    "name": "Caparol Grenadin 125",
+    "r": 170,
+    "g": 68,
+    "b": 65
+  },
+  {
+    "name": "Caparol Grenadin 130",
+    "r": 187,
+    "g": 94,
+    "b": 88
+  },
+  {
+    "name": "Caparol Grenadin 135",
+    "r": 204,
+    "g": 124,
+    "b": 116
+  },
+  {
+    "name": "Caparol Grenadin 140",
+    "r": 216,
+    "g": 154,
+    "b": 147
+  },
+  {
+    "name": "Caparol Grenadin 145",
+    "r": 229,
+    "g": 186,
+    "b": 180
+  },
+  {
+    "name": "Caparol Grenadin 15",
+    "r": 138,
+    "g": 119,
+    "b": 116
+  },
+  {
+    "name": "Caparol Grenadin 150",
+    "r": 239,
+    "g": 218,
+    "b": 213
+  },
+  {
+    "name": "Caparol Grenadin 20",
+    "r": 161,
+    "g": 144,
+    "b": 142
+  },
+  {
+    "name": "Caparol Grenadin 25",
+    "r": 186,
+    "g": 173,
+    "b": 171
+  },
+  {
+    "name": "Caparol Grenadin 30",
+    "r": 212,
+    "g": 203,
+    "b": 200
+  },
+  {
+    "name": "Caparol Grenadin 35",
+    "r": 107,
+    "g": 67,
+    "b": 63
+  },
+  {
+    "name": "Caparol Grenadin 40",
+    "r": 132,
+    "g": 94,
+    "b": 90
+  },
+  {
+    "name": "Caparol Grenadin 45",
+    "r": 154,
+    "g": 120,
+    "b": 116
+  },
+  {
+    "name": "Caparol Grenadin 5",
+    "r": 89,
+    "g": 65,
+    "b": 64
+  },
+  {
+    "name": "Caparol Grenadin 50",
+    "r": 175,
+    "g": 148,
+    "b": 144
+  },
+  {
+    "name": "Caparol Grenadin 55",
+    "r": 198,
+    "g": 177,
+    "b": 173
+  },
+  {
+    "name": "Caparol Grenadin 60",
+    "r": 219,
+    "g": 207,
+    "b": 203
+  },
+  {
+    "name": "Caparol Grenadin 65",
+    "r": 131,
+    "g": 67,
+    "b": 62
+  },
+  {
+    "name": "Caparol Grenadin 70",
+    "r": 152,
+    "g": 93,
+    "b": 89
+  },
+  {
+    "name": "Caparol Grenadin 75",
+    "r": 171,
+    "g": 123,
+    "b": 118
+  },
+  {
+    "name": "Caparol Grenadin 80",
+    "r": 190,
+    "g": 150,
+    "b": 145
+  },
+  {
+    "name": "Caparol Grenadin 85",
+    "r": 208,
+    "g": 181,
+    "b": 176
+  },
+  {
+    "name": "Caparol Grenadin 90",
+    "r": 227,
+    "g": 212,
+    "b": 208
+  },
+  {
+    "name": "Caparol Grenadin 95",
+    "r": 149,
+    "g": 70,
+    "b": 65
+  },
+  {
+    "name": "Caparol hell-weiss",
+    "r": 241,
+    "g": 239,
+    "b": 231
+  },
+  {
+    "name": "Caparol Jade 10",
+    "r": 187,
+    "g": 186,
+    "b": 179
+  },
+  {
+    "name": "Caparol Jade 100",
+    "r": 160,
+    "g": 161,
+    "b": 125
+  },
+  {
+    "name": "Caparol Jade 105",
+    "r": 185,
+    "g": 186,
+    "b": 140
+  },
+  {
+    "name": "Caparol Jade 110",
+    "r": 215,
+    "g": 214,
+    "b": 169
+  },
+  {
+    "name": "Caparol Jade 115",
+    "r": 219,
+    "g": 221,
+    "b": 169
+  },
+  {
+    "name": "Caparol Jade 120",
+    "r": 228,
+    "g": 228,
+    "b": 163
+  },
+  {
+    "name": "Caparol Jade 15",
+    "r": 207,
+    "g": 205,
+    "b": 199
+  },
+  {
+    "name": "Caparol Jade 20",
+    "r": 213,
+    "g": 211,
+    "b": 206
+  },
+  {
+    "name": "Caparol Jade 25",
+    "r": 222,
+    "g": 219,
+    "b": 213
+  },
+  {
+    "name": "Caparol Jade 30",
+    "r": 234,
+    "g": 230,
+    "b": 224
+  },
+  {
+    "name": "Caparol Jade 35",
+    "r": 144,
+    "g": 144,
+    "b": 139
+  },
+  {
+    "name": "Caparol Jade 40",
+    "r": 176,
+    "g": 174,
+    "b": 164
+  },
+  {
+    "name": "Caparol Jade 45",
+    "r": 189,
+    "g": 187,
+    "b": 174
+  },
+  {
+    "name": "Caparol Jade 5",
+    "r": 173,
+    "g": 173,
+    "b": 167
+  },
+  {
+    "name": "Caparol Jade 50",
+    "r": 201,
+    "g": 199,
+    "b": 190
+  },
+  {
+    "name": "Caparol Jade 55",
+    "r": 214,
+    "g": 212,
+    "b": 204
+  },
+  {
+    "name": "Caparol Jade 60",
+    "r": 234,
+    "g": 231,
+    "b": 220
+  },
+  {
+    "name": "Caparol Jade 65",
+    "r": 131,
+    "g": 130,
+    "b": 103
+  },
+  {
+    "name": "Caparol Jade 70",
+    "r": 161,
+    "g": 159,
+    "b": 140
+  },
+  {
+    "name": "Caparol Jade 75",
+    "r": 186,
+    "g": 184,
+    "b": 161
+  },
+  {
+    "name": "Caparol Jade 80",
+    "r": 206,
+    "g": 205,
+    "b": 174
+  },
+  {
+    "name": "Caparol Jade 85",
+    "r": 223,
+    "g": 220,
+    "b": 195
+  },
+  {
+    "name": "Caparol Jade 90",
+    "r": 236,
+    "g": 232,
+    "b": 212
+  },
+  {
+    "name": "Caparol Jade 95",
+    "r": 113,
+    "g": 115,
+    "b": 81
+  },
+  {
+    "name": "Caparol Jura 10",
+    "r": 91,
+    "g": 89,
+    "b": 86
+  },
+  {
+    "name": "Caparol Jura 15",
+    "r": 105,
+    "g": 104,
+    "b": 101
+  },
+  {
+    "name": "Caparol Jura 20",
+    "r": 119,
+    "g": 119,
+    "b": 115
+  },
+  {
+    "name": "Caparol Jura 25",
+    "r": 132,
+    "g": 130,
+    "b": 126
+  },
+  {
+    "name": "Caparol Jura 30",
+    "r": 145,
+    "g": 143,
+    "b": 139
+  },
+  {
+    "name": "Caparol Jura 35",
+    "r": 157,
+    "g": 155,
+    "b": 151
+  },
+  {
+    "name": "Caparol Jura 40",
+    "r": 171,
+    "g": 169,
+    "b": 165
+  },
+  {
+    "name": "Caparol Jura 45",
+    "r": 184,
+    "g": 182,
+    "b": 178
+  },
+  {
+    "name": "Caparol Jura 5",
+    "r": 72,
+    "g": 71,
+    "b": 69
+  },
+  {
+    "name": "Caparol Jura 50",
+    "r": 199,
+    "g": 197,
+    "b": 192
+  },
+  {
+    "name": "Caparol Jura 55",
+    "r": 210,
+    "g": 208,
+    "b": 204
+  },
+  {
+    "name": "Caparol Jura 60",
+    "r": 220,
+    "g": 218,
+    "b": 213
+  },
+  {
+    "name": "Caparol kuhl-weiss",
+    "r": 228,
+    "g": 226,
+    "b": 222
+  },
+  {
+    "name": "Caparol Lachs 10",
+    "r": 210,
+    "g": 175,
+    "b": 163
+  },
+  {
+    "name": "Caparol Lachs 100",
+    "r": 186,
+    "g": 99,
+    "b": 73
+  },
+  {
+    "name": "Caparol Lachs 105",
+    "r": 204,
+    "g": 114,
+    "b": 85
+  },
+  {
+    "name": "Caparol Lachs 110",
+    "r": 221,
+    "g": 99,
+    "b": 66
+  },
+  {
+    "name": "Caparol Lachs 115",
+    "r": 231,
+    "g": 129,
+    "b": 98
+  },
+  {
+    "name": "Caparol Lachs 120",
+    "r": 253,
+    "g": 160,
+    "b": 133
+  },
+  {
+    "name": "Caparol Lachs 15",
+    "r": 226,
+    "g": 192,
+    "b": 179
+  },
+  {
+    "name": "Caparol Lachs 20",
+    "r": 237,
+    "g": 206,
+    "b": 194
+  },
+  {
+    "name": "Caparol Lachs 25",
+    "r": 247,
+    "g": 221,
+    "b": 213
+  },
+  {
+    "name": "Caparol Lachs 30",
+    "r": 247,
+    "g": 227,
+    "b": 219
+  },
+  {
+    "name": "Caparol Lachs 35",
+    "r": 182,
+    "g": 127,
+    "b": 110
+  },
+  {
+    "name": "Caparol Lachs 40",
+    "r": 191,
+    "g": 146,
+    "b": 132
+  },
+  {
+    "name": "Caparol Lachs 45",
+    "r": 204,
+    "g": 163,
+    "b": 150
+  },
+  {
+    "name": "Caparol Lachs 5",
+    "r": 192,
+    "g": 157,
+    "b": 145
+  },
+  {
+    "name": "Caparol Lachs 50",
+    "r": 220,
+    "g": 163,
+    "b": 145
+  },
+  {
+    "name": "Caparol Lachs 55",
+    "r": 234,
+    "g": 188,
+    "b": 175
+  },
+  {
+    "name": "Caparol Lachs 60",
+    "r": 246,
+    "g": 212,
+    "b": 199
+  },
+  {
+    "name": "Caparol Lachs 65",
+    "r": 171,
+    "g": 103,
+    "b": 82
+  },
+  {
+    "name": "Caparol Lachs 70",
+    "r": 207,
+    "g": 125,
+    "b": 97
+  },
+  {
+    "name": "Caparol Lachs 75",
+    "r": 217,
+    "g": 140,
+    "b": 110
+  },
+  {
+    "name": "Caparol Lachs 80",
+    "r": 229,
+    "g": 150,
+    "b": 127
+  },
+  {
+    "name": "Caparol Lachs 85",
+    "r": 255,
+    "g": 193,
+    "b": 173
+  },
+  {
+    "name": "Caparol Lachs 90",
+    "r": 255,
+    "g": 206,
+    "b": 187
+  },
+  {
+    "name": "Caparol Lachs 95",
+    "r": 188,
+    "g": 87,
+    "b": 59
+  },
+  {
+    "name": "Caparol Lago 10",
+    "r": 85,
+    "g": 97,
+    "b": 105
+  },
+  {
+    "name": "Caparol Lago 100",
+    "r": 63,
+    "g": 124,
+    "b": 156
+  },
+  {
+    "name": "Caparol Lago 105",
+    "r": 99,
+    "g": 148,
+    "b": 178
+  },
+  {
+    "name": "Caparol Lago 110",
+    "r": 136,
+    "g": 174,
+    "b": 198
+  },
+  {
+    "name": "Caparol Lago 115",
+    "r": 170,
+    "g": 200,
+    "b": 218
+  },
+  {
+    "name": "Caparol Lago 120",
+    "r": 206,
+    "g": 226,
+    "b": 235
+  },
+  {
+    "name": "Caparol Lago 15",
+    "r": 112,
+    "g": 123,
+    "b": 130
+  },
+  {
+    "name": "Caparol Lago 20",
+    "r": 141,
+    "g": 150,
+    "b": 156
+  },
+  {
+    "name": "Caparol Lago 25",
+    "r": 171,
+    "g": 177,
+    "b": 181
+  },
+  {
+    "name": "Caparol Lago 30",
+    "r": 201,
+    "g": 205,
+    "b": 206
+  },
+  {
+    "name": "Caparol Lago 35",
+    "r": 52,
+    "g": 82,
+    "b": 99
+  },
+  {
+    "name": "Caparol Lago 40",
+    "r": 80,
+    "g": 104,
+    "b": 120
+  },
+  {
+    "name": "Caparol Lago 45",
+    "r": 110,
+    "g": 131,
+    "b": 145
+  },
+  {
+    "name": "Caparol Lago 5",
+    "r": 62,
+    "g": 73,
+    "b": 82
+  },
+  {
+    "name": "Caparol Lago 50",
+    "r": 140,
+    "g": 158,
+    "b": 169
+  },
+  {
+    "name": "Caparol Lago 55",
+    "r": 171,
+    "g": 186,
+    "b": 195
+  },
+  {
+    "name": "Caparol Lago 60",
+    "r": 203,
+    "g": 213,
+    "b": 217
+  },
+  {
+    "name": "Caparol Lago 65",
+    "r": 37,
+    "g": 90,
+    "b": 116
+  },
+  {
+    "name": "Caparol Lago 70",
+    "r": 80,
+    "g": 117,
+    "b": 140
+  },
+  {
+    "name": "Caparol Lago 75",
+    "r": 109,
+    "g": 141,
+    "b": 161
+  },
+  {
+    "name": "Caparol Lago 80",
+    "r": 139,
+    "g": 166,
+    "b": 183
+  },
+  {
+    "name": "Caparol Lago 85",
+    "r": 172,
+    "g": 194,
+    "b": 207
+  },
+  {
+    "name": "Caparol Lago 90",
+    "r": 206,
+    "g": 219,
+    "b": 228
+  },
+  {
+    "name": "Caparol Lago 95",
+    "r": 17,
+    "g": 100,
+    "b": 135
+  },
+  {
+    "name": "Caparol Laser 10",
+    "r": 126,
+    "g": 76,
+    "b": 113
+  },
+  {
+    "name": "Caparol Laser 15",
+    "r": 161,
+    "g": 71,
+    "b": 100
+  },
+  {
+    "name": "Caparol Laser 20",
+    "r": 172,
+    "g": 64,
+    "b": 75
+  },
+  {
+    "name": "Caparol Laser 25",
+    "r": 198,
+    "g": 73,
+    "b": 75
+  },
+  {
+    "name": "Caparol Laser 35",
+    "r": 252,
+    "g": 138,
+    "b": 53
+  },
+  {
+    "name": "Caparol Laser 40",
+    "r": 254,
+    "g": 160,
+    "b": 31
+  },
+  {
+    "name": "Caparol Laser 45",
+    "r": 255,
+    "g": 186,
+    "b": 41
+  },
+  {
+    "name": "Caparol Laser 5",
+    "r": 96,
+    "g": 81,
+    "b": 118
+  },
+  {
+    "name": "Caparol Laser 50",
+    "r": 243,
+    "g": 212,
+    "b": 61
+  },
+  {
+    "name": "Caparol Laser 55",
+    "r": 196,
+    "g": 194,
+    "b": 40
+  },
+  {
+    "name": "Caparol Laser 60",
+    "r": 132,
+    "g": 176,
+    "b": 63
+  },
+  {
+    "name": "Caparol Laser 65",
+    "r": 72,
+    "g": 144,
+    "b": 71
+  },
+  {
+    "name": "Caparol Laser 70",
+    "r": 0,
+    "g": 131,
+    "b": 104
+  },
+  {
+    "name": "Caparol Laser 75",
+    "r": 0,
+    "g": 111,
+    "b": 121
+  },
+  {
+    "name": "Caparol Laser 80",
+    "r": 0,
+    "g": 74,
+    "b": 139
+  },
+  {
+    "name": "Caparol Laser 85",
+    "r": 42,
+    "g": 90,
+    "b": 133
+  },
+  {
+    "name": "Caparol Laser 90",
+    "r": 65,
+    "g": 83,
+    "b": 128
+  },
+  {
+    "name": "Caparol Lavendel 10",
+    "r": 170,
+    "g": 172,
+    "b": 182
+  },
+  {
+    "name": "Caparol Lavendel 100",
+    "r": 118,
+    "g": 130,
+    "b": 162
+  },
+  {
+    "name": "Caparol Lavendel 105",
+    "r": 174,
+    "g": 183,
+    "b": 207
+  },
+  {
+    "name": "Caparol Lavendel 110",
+    "r": 179,
+    "g": 183,
+    "b": 199
+  },
+  {
+    "name": "Caparol Lavendel 115",
+    "r": 209,
+    "g": 211,
+    "b": 223
+  },
+  {
+    "name": "Caparol Lavendel 120",
+    "r": 220,
+    "g": 222,
+    "b": 231
+  },
+  {
+    "name": "Caparol Lavendel 125",
+    "r": 143,
+    "g": 155,
+    "b": 188
+  },
+  {
+    "name": "Caparol Lavendel 130",
+    "r": 163,
+    "g": 173,
+    "b": 202
+  },
+  {
+    "name": "Caparol Lavendel 135",
+    "r": 170,
+    "g": 183,
+    "b": 214
+  },
+  {
+    "name": "Caparol Lavendel 140",
+    "r": 188,
+    "g": 198,
+    "b": 227
+  },
+  {
+    "name": "Caparol Lavendel 145",
+    "r": 199,
+    "g": 205,
+    "b": 225
+  },
+  {
+    "name": "Caparol Lavendel 15",
+    "r": 182,
+    "g": 184,
+    "b": 194
+  },
+  {
+    "name": "Caparol Lavendel 150",
+    "r": 200,
+    "g": 207,
+    "b": 229
+  },
+  {
+    "name": "Caparol Lavendel 155",
+    "r": 62,
+    "g": 73,
+    "b": 100
+  },
+  {
+    "name": "Caparol Lavendel 160",
+    "r": 61,
+    "g": 85,
+    "b": 124
+  },
+  {
+    "name": "Caparol Lavendel 165",
+    "r": 68,
+    "g": 93,
+    "b": 136
+  },
+  {
+    "name": "Caparol Lavendel 170",
+    "r": 77,
+    "g": 94,
+    "b": 132
+  },
+  {
+    "name": "Caparol Lavendel 175",
+    "r": 97,
+    "g": 120,
+    "b": 168
+  },
+  {
+    "name": "Caparol Lavendel 180",
+    "r": 130,
+    "g": 148,
+    "b": 189
+  },
+  {
+    "name": "Caparol Lavendel 20",
+    "r": 198,
+    "g": 199,
+    "b": 204
+  },
+  {
+    "name": "Caparol Lavendel 25",
+    "r": 213,
+    "g": 212,
+    "b": 215
+  },
+  {
+    "name": "Caparol Lavendel 30",
+    "r": 225,
+    "g": 223,
+    "b": 225
+  },
+  {
+    "name": "Caparol Lavendel 35",
+    "r": 74,
+    "g": 76,
+    "b": 83
+  },
+  {
+    "name": "Caparol Lavendel 40",
+    "r": 93,
+    "g": 95,
+    "b": 104
+  },
+  {
+    "name": "Caparol Lavendel 45",
+    "r": 116,
+    "g": 118,
+    "b": 128
+  },
+  {
+    "name": "Caparol Lavendel 5",
+    "r": 146,
+    "g": 147,
+    "b": 155
+  },
+  {
+    "name": "Caparol Lavendel 50",
+    "r": 157,
+    "g": 160,
+    "b": 172
+  },
+  {
+    "name": "Caparol Lavendel 55",
+    "r": 197,
+    "g": 200,
+    "b": 210
+  },
+  {
+    "name": "Caparol Lavendel 60",
+    "r": 225,
+    "g": 226,
+    "b": 231
+  },
+  {
+    "name": "Caparol Lavendel 65",
+    "r": 77,
+    "g": 85,
+    "b": 106
+  },
+  {
+    "name": "Caparol Lavendel 70",
+    "r": 99,
+    "g": 109,
+    "b": 132
+  },
+  {
+    "name": "Caparol Lavendel 75",
+    "r": 121,
+    "g": 129,
+    "b": 154
+  },
+  {
+    "name": "Caparol Lavendel 80",
+    "r": 148,
+    "g": 157,
+    "b": 182
+  },
+  {
+    "name": "Caparol Lavendel 85",
+    "r": 153,
+    "g": 160,
+    "b": 182
+  },
+  {
+    "name": "Caparol Lavendel 90",
+    "r": 164,
+    "g": 171,
+    "b": 193
+  },
+  {
+    "name": "Caparol Lavendel 95",
+    "r": 89,
+    "g": 99,
+    "b": 128
+  },
+  {
+    "name": "Caparol Lazur 10",
+    "r": 144,
+    "g": 151,
+    "b": 159
+  },
+  {
+    "name": "Caparol Lazur 100",
+    "r": 87,
+    "g": 107,
+    "b": 128
+  },
+  {
+    "name": "Caparol Lazur 105",
+    "r": 100,
+    "g": 122,
+    "b": 145
+  },
+  {
+    "name": "Caparol Lazur 110",
+    "r": 132,
+    "g": 148,
+    "b": 166
+  },
+  {
+    "name": "Caparol Lazur 115",
+    "r": 166,
+    "g": 186,
+    "b": 203
+  },
+  {
+    "name": "Caparol Lazur 120",
+    "r": 183,
+    "g": 200,
+    "b": 216
+  },
+  {
+    "name": "Caparol Lazur 125",
+    "r": 53,
+    "g": 91,
+    "b": 117
+  },
+  {
+    "name": "Caparol Lazur 130",
+    "r": 80,
+    "g": 109,
+    "b": 136
+  },
+  {
+    "name": "Caparol Lazur 135",
+    "r": 114,
+    "g": 147,
+    "b": 179
+  },
+  {
+    "name": "Caparol Lazur 140",
+    "r": 124,
+    "g": 147,
+    "b": 169
+  },
+  {
+    "name": "Caparol Lazur 145",
+    "r": 148,
+    "g": 174,
+    "b": 199
+  },
+  {
+    "name": "Caparol Lazur 15",
+    "r": 167,
+    "g": 172,
+    "b": 179
+  },
+  {
+    "name": "Caparol Lazur 150",
+    "r": 156,
+    "g": 174,
+    "b": 193
+  },
+  {
+    "name": "Caparol Lazur 155",
+    "r": 40,
+    "g": 93,
+    "b": 126
+  },
+  {
+    "name": "Caparol Lazur 160",
+    "r": 68,
+    "g": 110,
+    "b": 145
+  },
+  {
+    "name": "Caparol Lazur 165",
+    "r": 83,
+    "g": 123,
+    "b": 158
+  },
+  {
+    "name": "Caparol Lazur 170",
+    "r": 110,
+    "g": 150,
+    "b": 185
+  },
+  {
+    "name": "Caparol Lazur 175",
+    "r": 135,
+    "g": 177,
+    "b": 214
+  },
+  {
+    "name": "Caparol Lazur 180",
+    "r": 158,
+    "g": 185,
+    "b": 210
+  },
+  {
+    "name": "Caparol Lazur 185",
+    "r": 8,
+    "g": 97,
+    "b": 141
+  },
+  {
+    "name": "Caparol Lazur 190",
+    "r": 29,
+    "g": 100,
+    "b": 140
+  },
+  {
+    "name": "Caparol Lazur 195",
+    "r": 73,
+    "g": 127,
+    "b": 167
+  },
+  {
+    "name": "Caparol Lazur 20",
+    "r": 195,
+    "g": 197,
+    "b": 199
+  },
+  {
+    "name": "Caparol Lazur 200",
+    "r": 83,
+    "g": 151,
+    "b": 200
+  },
+  {
+    "name": "Caparol Lazur 205",
+    "r": 102,
+    "g": 151,
+    "b": 192
+  },
+  {
+    "name": "Caparol Lazur 210",
+    "r": 117,
+    "g": 160,
+    "b": 197
+  },
+  {
+    "name": "Caparol Lazur 25",
+    "r": 210,
+    "g": 211,
+    "b": 211
+  },
+  {
+    "name": "Caparol Lazur 30",
+    "r": 225,
+    "g": 225,
+    "b": 221
+  },
+  {
+    "name": "Caparol Lazur 35",
+    "r": 190,
+    "g": 199,
+    "b": 209
+  },
+  {
+    "name": "Caparol Lazur 40",
+    "r": 205,
+    "g": 212,
+    "b": 218
+  },
+  {
+    "name": "Caparol Lazur 45",
+    "r": 221,
+    "g": 225,
+    "b": 228
+  },
+  {
+    "name": "Caparol Lazur 5",
+    "r": 123,
+    "g": 131,
+    "b": 140
+  },
+  {
+    "name": "Caparol Lazur 50",
+    "r": 227,
+    "g": 227,
+    "b": 226
+  },
+  {
+    "name": "Caparol Lazur 55",
+    "r": 233,
+    "g": 233,
+    "b": 230
+  },
+  {
+    "name": "Caparol Lazur 60",
+    "r": 234,
+    "g": 235,
+    "b": 232
+  },
+  {
+    "name": "Caparol Lazur 65",
+    "r": 74,
+    "g": 88,
+    "b": 102
+  },
+  {
+    "name": "Caparol Lazur 70",
+    "r": 84,
+    "g": 96,
+    "b": 110
+  },
+  {
+    "name": "Caparol Lazur 75",
+    "r": 110,
+    "g": 120,
+    "b": 133
+  },
+  {
+    "name": "Caparol Lazur 80",
+    "r": 130,
+    "g": 144,
+    "b": 161
+  },
+  {
+    "name": "Caparol Lazur 85",
+    "r": 160,
+    "g": 171,
+    "b": 184
+  },
+  {
+    "name": "Caparol Lazur 90",
+    "r": 191,
+    "g": 202,
+    "b": 213
+  },
+  {
+    "name": "Caparol Lazur 95",
+    "r": 63,
+    "g": 86,
+    "b": 105
+  },
+  {
+    "name": "Caparol Magma 10",
+    "r": 116,
+    "g": 96,
+    "b": 91
+  },
+  {
+    "name": "Caparol Magma 100",
+    "r": 171,
+    "g": 99,
+    "b": 85
+  },
+  {
+    "name": "Caparol Magma 105",
+    "r": 189,
+    "g": 127,
+    "b": 113
+  },
+  {
+    "name": "Caparol Magma 110",
+    "r": 207,
+    "g": 154,
+    "b": 143
+  },
+  {
+    "name": "Caparol Magma 115",
+    "r": 223,
+    "g": 184,
+    "b": 174
+  },
+  {
+    "name": "Caparol Magma 120",
+    "r": 238,
+    "g": 214,
+    "b": 207
+  },
+  {
+    "name": "Caparol Magma 125",
+    "r": 169,
+    "g": 75,
+    "b": 62
+  },
+  {
+    "name": "Caparol Magma 130",
+    "r": 193,
+    "g": 105,
+    "b": 87
+  },
+  {
+    "name": "Caparol Magma 135",
+    "r": 210,
+    "g": 133,
+    "b": 117
+  },
+  {
+    "name": "Caparol Magma 140",
+    "r": 225,
+    "g": 163,
+    "b": 148
+  },
+  {
+    "name": "Caparol Magma 145",
+    "r": 238,
+    "g": 191,
+    "b": 180
+  },
+  {
+    "name": "Caparol Magma 15",
+    "r": 139,
+    "g": 121,
+    "b": 117
+  },
+  {
+    "name": "Caparol Magma 150",
+    "r": 248,
+    "g": 217,
+    "b": 209
+  },
+  {
+    "name": "Caparol Magma 20",
+    "r": 162,
+    "g": 147,
+    "b": 143
+  },
+  {
+    "name": "Caparol Magma 25",
+    "r": 188,
+    "g": 175,
+    "b": 172
+  },
+  {
+    "name": "Caparol Magma 30",
+    "r": 212,
+    "g": 203,
+    "b": 199
+  },
+  {
+    "name": "Caparol Magma 35",
+    "r": 114,
+    "g": 76,
+    "b": 67
+  },
+  {
+    "name": "Caparol Magma 40",
+    "r": 135,
+    "g": 97,
+    "b": 89
+  },
+  {
+    "name": "Caparol Magma 45",
+    "r": 158,
+    "g": 124,
+    "b": 117
+  },
+  {
+    "name": "Caparol Magma 5",
+    "r": 94,
+    "g": 72,
+    "b": 68
+  },
+  {
+    "name": "Caparol Magma 50",
+    "r": 177,
+    "g": 148,
+    "b": 142
+  },
+  {
+    "name": "Caparol Magma 55",
+    "r": 200,
+    "g": 178,
+    "b": 172
+  },
+  {
+    "name": "Caparol Magma 60",
+    "r": 223,
+    "g": 208,
+    "b": 204
+  },
+  {
+    "name": "Caparol Magma 65",
+    "r": 136,
+    "g": 78,
+    "b": 68
+  },
+  {
+    "name": "Caparol Magma 70",
+    "r": 153,
+    "g": 100,
+    "b": 90
+  },
+  {
+    "name": "Caparol Magma 75",
+    "r": 173,
+    "g": 126,
+    "b": 115
+  },
+  {
+    "name": "Caparol Magma 80",
+    "r": 192,
+    "g": 152,
+    "b": 142
+  },
+  {
+    "name": "Caparol Magma 85",
+    "r": 212,
+    "g": 182,
+    "b": 175
+  },
+  {
+    "name": "Caparol Magma 90",
+    "r": 229,
+    "g": 210,
+    "b": 203
+  },
+  {
+    "name": "Caparol Magma 95",
+    "r": 151,
+    "g": 74,
+    "b": 60
+  },
+  {
+    "name": "Caparol Mai 10",
+    "r": 132,
+    "g": 129,
+    "b": 124
+  },
+  {
+    "name": "Caparol Mai 15",
+    "r": 169,
+    "g": 166,
+    "b": 157
+  },
+  {
+    "name": "Caparol Mai 20",
+    "r": 197,
+    "g": 193,
+    "b": 182
+  },
+  {
+    "name": "Caparol Mai 25",
+    "r": 219,
+    "g": 215,
+    "b": 205
+  },
+  {
+    "name": "Caparol Mai 30",
+    "r": 238,
+    "g": 234,
+    "b": 222
+  },
+  {
+    "name": "Caparol Mai 35",
+    "r": 134,
+    "g": 129,
+    "b": 107
+  },
+  {
+    "name": "Caparol Mai 40",
+    "r": 153,
+    "g": 149,
+    "b": 128
+  },
+  {
+    "name": "Caparol Mai 45",
+    "r": 185,
+    "g": 179,
+    "b": 156
+  },
+  {
+    "name": "Caparol Mai 5",
+    "r": 114,
+    "g": 111,
+    "b": 106
+  },
+  {
+    "name": "Caparol Mai 50",
+    "r": 204,
+    "g": 198,
+    "b": 176
+  },
+  {
+    "name": "Caparol Mai 55",
+    "r": 229,
+    "g": 220,
+    "b": 197
+  },
+  {
+    "name": "Caparol Mai 60",
+    "r": 242,
+    "g": 235,
+    "b": 211
+  },
+  {
+    "name": "Caparol Mai 65",
+    "r": 175,
+    "g": 172,
+    "b": 122
+  },
+  {
+    "name": "Caparol Mai 70",
+    "r": 178,
+    "g": 176,
+    "b": 84
+  },
+  {
+    "name": "Caparol Mai 75",
+    "r": 192,
+    "g": 192,
+    "b": 74
+  },
+  {
+    "name": "Caparol Mai 80",
+    "r": 204,
+    "g": 199,
+    "b": 94
+  },
+  {
+    "name": "Caparol Mai 85",
+    "r": 218,
+    "g": 216,
+    "b": 139
+  },
+  {
+    "name": "Caparol Mai 90",
+    "r": 233,
+    "g": 221,
+    "b": 126
+  },
+  {
+    "name": "Caparol Malachit 10",
+    "r": 99,
+    "g": 111,
+    "b": 101
+  },
+  {
+    "name": "Caparol Malachit 100",
+    "r": 73,
+    "g": 133,
+    "b": 94
+  },
+  {
+    "name": "Caparol Malachit 105",
+    "r": 104,
+    "g": 157,
+    "b": 121
+  },
+  {
+    "name": "Caparol Malachit 110",
+    "r": 138,
+    "g": 181,
+    "b": 150
+  },
+  {
+    "name": "Caparol Malachit 115",
+    "r": 172,
+    "g": 207,
+    "b": 181
+  },
+  {
+    "name": "Caparol Malachit 120",
+    "r": 208,
+    "g": 232,
+    "b": 213
+  },
+  {
+    "name": "Caparol Malachit 15",
+    "r": 125,
+    "g": 135,
+    "b": 126
+  },
+  {
+    "name": "Caparol Malachit 20",
+    "r": 152,
+    "g": 160,
+    "b": 153
+  },
+  {
+    "name": "Caparol Malachit 25",
+    "r": 179,
+    "g": 186,
+    "b": 179
+  },
+  {
+    "name": "Caparol Malachit 30",
+    "r": 207,
+    "g": 212,
+    "b": 206
+  },
+  {
+    "name": "Caparol Malachit 35",
+    "r": 66,
+    "g": 97,
+    "b": 75
+  },
+  {
+    "name": "Caparol Malachit 40",
+    "r": 89,
+    "g": 119,
+    "b": 98
+  },
+  {
+    "name": "Caparol Malachit 45",
+    "r": 118,
+    "g": 143,
+    "b": 124
+  },
+  {
+    "name": "Caparol Malachit 5",
+    "r": 76,
+    "g": 89,
+    "b": 80
+  },
+  {
+    "name": "Caparol Malachit 50",
+    "r": 148,
+    "g": 169,
+    "b": 152
+  },
+  {
+    "name": "Caparol Malachit 55",
+    "r": 177,
+    "g": 194,
+    "b": 181
+  },
+  {
+    "name": "Caparol Malachit 60",
+    "r": 207,
+    "g": 219,
+    "b": 208
+  },
+  {
+    "name": "Caparol Malachit 65",
+    "r": 54,
+    "g": 103,
+    "b": 72
+  },
+  {
+    "name": "Caparol Malachit 70",
+    "r": 85,
+    "g": 127,
+    "b": 96
+  },
+  {
+    "name": "Caparol Malachit 75",
+    "r": 112,
+    "g": 152,
+    "b": 125
+  },
+  {
+    "name": "Caparol Malachit 80",
+    "r": 143,
+    "g": 175,
+    "b": 151
+  },
+  {
+    "name": "Caparol Malachit 85",
+    "r": 174,
+    "g": 199,
+    "b": 180
+  },
+  {
+    "name": "Caparol Malachit 90",
+    "r": 207,
+    "g": 225,
+    "b": 210
+  },
+  {
+    "name": "Caparol Malachit 95",
+    "r": 42,
+    "g": 110,
+    "b": 70
+  },
+  {
+    "name": "Caparol Marill 10",
+    "r": 128,
+    "g": 113,
+    "b": 98
+  },
+  {
+    "name": "Caparol Marill 100",
+    "r": 225,
+    "g": 165,
+    "b": 89
+  },
+  {
+    "name": "Caparol Marill 105",
+    "r": 237,
+    "g": 182,
+    "b": 116
+  },
+  {
+    "name": "Caparol Marill 110",
+    "r": 238,
+    "g": 191,
+    "b": 135
+  },
+  {
+    "name": "Caparol Marill 115",
+    "r": 241,
+    "g": 202,
+    "b": 159
+  },
+  {
+    "name": "Caparol Marill 120",
+    "r": 247,
+    "g": 220,
+    "b": 192
+  },
+  {
+    "name": "Caparol Marill 125",
+    "r": 255,
+    "g": 180,
+    "b": 60
+  },
+  {
+    "name": "Caparol Marill 130",
+    "r": 255,
+    "g": 185,
+    "b": 83
+  },
+  {
+    "name": "Caparol Marill 135",
+    "r": 255,
+    "g": 195,
+    "b": 108
+  },
+  {
+    "name": "Caparol Marill 140",
+    "r": 255,
+    "g": 204,
+    "b": 136
+  },
+  {
+    "name": "Caparol Marill 145",
+    "r": 255,
+    "g": 211,
+    "b": 155
+  },
+  {
+    "name": "Caparol Marill 15",
+    "r": 149,
+    "g": 136,
+    "b": 123
+  },
+  {
+    "name": "Caparol Marill 150",
+    "r": 254,
+    "g": 220,
+    "b": 181
+  },
+  {
+    "name": "Caparol Marill 20",
+    "r": 173,
+    "g": 161,
+    "b": 150
+  },
+  {
+    "name": "Caparol Marill 25",
+    "r": 192,
+    "g": 182,
+    "b": 172
+  },
+  {
+    "name": "Caparol Marill 30",
+    "r": 217,
+    "g": 208,
+    "b": 198
+  },
+  {
+    "name": "Caparol Marill 35",
+    "r": 140,
+    "g": 110,
+    "b": 76
+  },
+  {
+    "name": "Caparol Marill 40",
+    "r": 153,
+    "g": 126,
+    "b": 95
+  },
+  {
+    "name": "Caparol Marill 45",
+    "r": 172,
+    "g": 147,
+    "b": 119
+  },
+  {
+    "name": "Caparol Marill 5",
+    "r": 108,
+    "g": 92,
+    "b": 76
+  },
+  {
+    "name": "Caparol Marill 50",
+    "r": 189,
+    "g": 166,
+    "b": 142
+  },
+  {
+    "name": "Caparol Marill 55",
+    "r": 206,
+    "g": 187,
+    "b": 167
+  },
+  {
+    "name": "Caparol Marill 60",
+    "r": 226,
+    "g": 212,
+    "b": 197
+  },
+  {
+    "name": "Caparol Marill 65",
+    "r": 179,
+    "g": 131,
+    "b": 72
+  },
+  {
+    "name": "Caparol Marill 70",
+    "r": 190,
+    "g": 147,
+    "b": 93
+  },
+  {
+    "name": "Caparol Marill 75",
+    "r": 203,
+    "g": 162,
+    "b": 117
+  },
+  {
+    "name": "Caparol Marill 80",
+    "r": 215,
+    "g": 178,
+    "b": 139
+  },
+  {
+    "name": "Caparol Marill 85",
+    "r": 225,
+    "g": 195,
+    "b": 164
+  },
+  {
+    "name": "Caparol Marill 90",
+    "r": 235,
+    "g": 216,
+    "b": 195
+  },
+  {
+    "name": "Caparol Marill 95",
+    "r": 220,
+    "g": 155,
+    "b": 66
+  },
+  {
+    "name": "Caparol Melisse 10",
+    "r": 216,
+    "g": 211,
+    "b": 202
+  },
+  {
+    "name": "Caparol Melisse 100",
+    "r": 211,
+    "g": 183,
+    "b": 60
+  },
+  {
+    "name": "Caparol Melisse 105",
+    "r": 234,
+    "g": 205,
+    "b": 78
+  },
+  {
+    "name": "Caparol Melisse 110",
+    "r": 243,
+    "g": 215,
+    "b": 83
+  },
+  {
+    "name": "Caparol Melisse 115",
+    "r": 249,
+    "g": 225,
+    "b": 115
+  },
+  {
+    "name": "Caparol Melisse 120",
+    "r": 245,
+    "g": 232,
+    "b": 190
+  },
+  {
+    "name": "Caparol Melisse 15",
+    "r": 230,
+    "g": 225,
+    "b": 215
+  },
+  {
+    "name": "Caparol Melisse 20",
+    "r": 234,
+    "g": 230,
+    "b": 222
+  },
+  {
+    "name": "Caparol Melisse 25",
+    "r": 239,
+    "g": 230,
+    "b": 215
+  },
+  {
+    "name": "Caparol Melisse 30",
+    "r": 243,
+    "g": 235,
+    "b": 215
+  },
+  {
+    "name": "Caparol Melisse 35",
+    "r": 181,
+    "g": 168,
+    "b": 138
+  },
+  {
+    "name": "Caparol Melisse 40",
+    "r": 206,
+    "g": 197,
+    "b": 172
+  },
+  {
+    "name": "Caparol Melisse 45",
+    "r": 221,
+    "g": 212,
+    "b": 188
+  },
+  {
+    "name": "Caparol Melisse 5",
+    "r": 203,
+    "g": 197,
+    "b": 187
+  },
+  {
+    "name": "Caparol Melisse 50",
+    "r": 230,
+    "g": 220,
+    "b": 196
+  },
+  {
+    "name": "Caparol Melisse 55",
+    "r": 240,
+    "g": 231,
+    "b": 210
+  },
+  {
+    "name": "Caparol Melisse 60",
+    "r": 242,
+    "g": 236,
+    "b": 223
+  },
+  {
+    "name": "Caparol Melisse 65",
+    "r": 129,
+    "g": 117,
+    "b": 82
+  },
+  {
+    "name": "Caparol Melisse 70",
+    "r": 154,
+    "g": 144,
+    "b": 115
+  },
+  {
+    "name": "Caparol Melisse 75",
+    "r": 187,
+    "g": 168,
+    "b": 119
+  },
+  {
+    "name": "Caparol Melisse 80",
+    "r": 220,
+    "g": 202,
+    "b": 151
+  },
+  {
+    "name": "Caparol Melisse 85",
+    "r": 247,
+    "g": 228,
+    "b": 175
+  },
+  {
+    "name": "Caparol Melisse 90",
+    "r": 244,
+    "g": 234,
+    "b": 205
+  },
+  {
+    "name": "Caparol Melisse 95",
+    "r": 203,
+    "g": 173,
+    "b": 57
+  },
+  {
+    "name": "Caparol Mint 10",
+    "r": 162,
+    "g": 169,
+    "b": 163
+  },
+  {
+    "name": "Caparol Mint 15",
+    "r": 193,
+    "g": 200,
+    "b": 193
+  },
+  {
+    "name": "Caparol Mint 20",
+    "r": 208,
+    "g": 213,
+    "b": 206
+  },
+  {
+    "name": "Caparol Mint 25",
+    "r": 222,
+    "g": 224,
+    "b": 218
+  },
+  {
+    "name": "Caparol Mint 30",
+    "r": 233,
+    "g": 232,
+    "b": 226
+  },
+  {
+    "name": "Caparol Mint 35",
+    "r": 112,
+    "g": 124,
+    "b": 112
+  },
+  {
+    "name": "Caparol Mint 40",
+    "r": 113,
+    "g": 140,
+    "b": 119
+  },
+  {
+    "name": "Caparol Mint 45",
+    "r": 138,
+    "g": 160,
+    "b": 143
+  },
+  {
+    "name": "Caparol Mint 5",
+    "r": 139,
+    "g": 145,
+    "b": 139
+  },
+  {
+    "name": "Caparol Mint 50",
+    "r": 161,
+    "g": 177,
+    "b": 169
+  },
+  {
+    "name": "Caparol Mint 55",
+    "r": 187,
+    "g": 202,
+    "b": 190
+  },
+  {
+    "name": "Caparol Mint 60",
+    "r": 222,
+    "g": 227,
+    "b": 218
+  },
+  {
+    "name": "Caparol Moos 10",
+    "r": 116,
+    "g": 116,
+    "b": 110
+  },
+  {
+    "name": "Caparol Moos 15",
+    "r": 137,
+    "g": 138,
+    "b": 132
+  },
+  {
+    "name": "Caparol Moos 20",
+    "r": 164,
+    "g": 164,
+    "b": 161
+  },
+  {
+    "name": "Caparol Moos 25",
+    "r": 210,
+    "g": 210,
+    "b": 204
+  },
+  {
+    "name": "Caparol Moos 30",
+    "r": 228,
+    "g": 226,
+    "b": 220
+  },
+  {
+    "name": "Caparol Moos 35",
+    "r": 148,
+    "g": 150,
+    "b": 133
+  },
+  {
+    "name": "Caparol Moos 40",
+    "r": 166,
+    "g": 167,
+    "b": 154
+  },
+  {
+    "name": "Caparol Moos 45",
+    "r": 183,
+    "g": 182,
+    "b": 177
+  },
+  {
+    "name": "Caparol Moos 5",
+    "r": 94,
+    "g": 94,
+    "b": 89
+  },
+  {
+    "name": "Caparol Moos 50",
+    "r": 186,
+    "g": 187,
+    "b": 176
+  },
+  {
+    "name": "Caparol Moos 55",
+    "r": 206,
+    "g": 206,
+    "b": 198
+  },
+  {
+    "name": "Caparol Moos 60",
+    "r": 218,
+    "g": 219,
+    "b": 205
+  },
+  {
+    "name": "Caparol Moos 65",
+    "r": 129,
+    "g": 134,
+    "b": 107
+  },
+  {
+    "name": "Caparol Moos 70",
+    "r": 155,
+    "g": 162,
+    "b": 122
+  },
+  {
+    "name": "Caparol Moos 75",
+    "r": 174,
+    "g": 176,
+    "b": 156
+  },
+  {
+    "name": "Caparol Moos 80",
+    "r": 197,
+    "g": 201,
+    "b": 181
+  },
+  {
+    "name": "Caparol Moos 85",
+    "r": 211,
+    "g": 214,
+    "b": 190
+  },
+  {
+    "name": "Caparol Moos 90",
+    "r": 233,
+    "g": 233,
+    "b": 216
+  },
+  {
+    "name": "Caparol natur-weiss",
+    "r": 236,
+    "g": 232,
+    "b": 223
+  },
+  {
+    "name": "Caparol Oase 10",
+    "r": 155,
+    "g": 160,
+    "b": 147
+  },
+  {
+    "name": "Caparol Oase 100",
+    "r": 99,
+    "g": 123,
+    "b": 82
+  },
+  {
+    "name": "Caparol Oase 105",
+    "r": 130,
+    "g": 140,
+    "b": 107
+  },
+  {
+    "name": "Caparol Oase 110",
+    "r": 167,
+    "g": 193,
+    "b": 143
+  },
+  {
+    "name": "Caparol Oase 115",
+    "r": 178,
+    "g": 192,
+    "b": 156
+  },
+  {
+    "name": "Caparol Oase 120",
+    "r": 227,
+    "g": 237,
+    "b": 211
+  },
+  {
+    "name": "Caparol Oase 125",
+    "r": 90,
+    "g": 123,
+    "b": 70
+  },
+  {
+    "name": "Caparol Oase 130",
+    "r": 107,
+    "g": 151,
+    "b": 77
+  },
+  {
+    "name": "Caparol Oase 135",
+    "r": 134,
+    "g": 164,
+    "b": 105
+  },
+  {
+    "name": "Caparol Oase 140",
+    "r": 134,
+    "g": 180,
+    "b": 86
+  },
+  {
+    "name": "Caparol Oase 145",
+    "r": 149,
+    "g": 195,
+    "b": 107
+  },
+  {
+    "name": "Caparol Oase 15",
+    "r": 166,
+    "g": 172,
+    "b": 160
+  },
+  {
+    "name": "Caparol Oase 150",
+    "r": 178,
+    "g": 210,
+    "b": 144
+  },
+  {
+    "name": "Caparol Oase 20",
+    "r": 196,
+    "g": 200,
+    "b": 191
+  },
+  {
+    "name": "Caparol Oase 25",
+    "r": 212,
+    "g": 214,
+    "b": 204
+  },
+  {
+    "name": "Caparol Oase 30",
+    "r": 225,
+    "g": 226,
+    "b": 218
+  },
+  {
+    "name": "Caparol Oase 35",
+    "r": 81,
+    "g": 87,
+    "b": 76
+  },
+  {
+    "name": "Caparol Oase 40",
+    "r": 93,
+    "g": 100,
+    "b": 86
+  },
+  {
+    "name": "Caparol Oase 45",
+    "r": 121,
+    "g": 129,
+    "b": 104
+  },
+  {
+    "name": "Caparol Oase 5",
+    "r": 135,
+    "g": 141,
+    "b": 126
+  },
+  {
+    "name": "Caparol Oase 50",
+    "r": 177,
+    "g": 187,
+    "b": 165
+  },
+  {
+    "name": "Caparol Oase 55",
+    "r": 211,
+    "g": 215,
+    "b": 204
+  },
+  {
+    "name": "Caparol Oase 60",
+    "r": 231,
+    "g": 232,
+    "b": 223
+  },
+  {
+    "name": "Caparol Oase 65",
+    "r": 78,
+    "g": 92,
+    "b": 68
+  },
+  {
+    "name": "Caparol Oase 70",
+    "r": 95,
+    "g": 109,
+    "b": 85
+  },
+  {
+    "name": "Caparol Oase 75",
+    "r": 146,
+    "g": 158,
+    "b": 130
+  },
+  {
+    "name": "Caparol Oase 80",
+    "r": 194,
+    "g": 202,
+    "b": 183
+  },
+  {
+    "name": "Caparol Oase 85",
+    "r": 210,
+    "g": 215,
+    "b": 198
+  },
+  {
+    "name": "Caparol Oase 90",
+    "r": 226,
+    "g": 228,
+    "b": 215
+  },
+  {
+    "name": "Caparol Oase 95",
+    "r": 78,
+    "g": 102,
+    "b": 66
+  },
+  {
+    "name": "Caparol Off White 15",
+    "r": 242,
+    "g": 232,
+    "b": 225
+  },
+  {
+    "name": "Caparol Off White 20",
+    "r": 244,
+    "g": 235,
+    "b": 219
+  },
+  {
+    "name": "Caparol Off White 25",
+    "r": 243,
+    "g": 238,
+    "b": 221
+  },
+  {
+    "name": "Caparol Off White 30",
+    "r": 240,
+    "g": 240,
+    "b": 226
+  },
+  {
+    "name": "Caparol Off White 40",
+    "r": 230,
+    "g": 237,
+    "b": 230
+  },
+  {
+    "name": "Caparol Off White 50",
+    "r": 233,
+    "g": 233,
+    "b": 230
+  },
+  {
+    "name": "Caparol Oliv 10",
+    "r": 215,
+    "g": 153,
+    "b": 47
+  },
+  {
+    "name": "Caparol Oliv 15",
+    "r": 100,
+    "g": 95,
+    "b": 72
+  },
+  {
+    "name": "Caparol Oliv 20",
+    "r": 205,
+    "g": 168,
+    "b": 42
+  },
+  {
+    "name": "Caparol Oliv 25",
+    "r": 149,
+    "g": 134,
+    "b": 57
+  },
+  {
+    "name": "Caparol Oliv 30",
+    "r": 209,
+    "g": 195,
+    "b": 51
+  },
+  {
+    "name": "Caparol Oliv 5",
+    "r": 62,
+    "g": 62,
+    "b": 63
+  },
+  {
+    "name": "Caparol Onyx 10",
+    "r": 193,
+    "g": 185,
+    "b": 177
+  },
+  {
+    "name": "Caparol Onyx 100",
+    "r": 182,
+    "g": 153,
+    "b": 126
+  },
+  {
+    "name": "Caparol Onyx 105",
+    "r": 214,
+    "g": 176,
+    "b": 143
+  },
+  {
+    "name": "Caparol Onyx 110",
+    "r": 223,
+    "g": 193,
+    "b": 165
+  },
+  {
+    "name": "Caparol Onyx 115",
+    "r": 234,
+    "g": 208,
+    "b": 186
+  },
+  {
+    "name": "Caparol Onyx 120",
+    "r": 244,
+    "g": 228,
+    "b": 212
+  },
+  {
+    "name": "Caparol Onyx 125",
+    "r": 197,
+    "g": 167,
+    "b": 150
+  },
+  {
+    "name": "Caparol Onyx 130",
+    "r": 211,
+    "g": 164,
+    "b": 120
+  },
+  {
+    "name": "Caparol Onyx 135",
+    "r": 226,
+    "g": 182,
+    "b": 143
+  },
+  {
+    "name": "Caparol Onyx 140",
+    "r": 236,
+    "g": 199,
+    "b": 165
+  },
+  {
+    "name": "Caparol Onyx 145",
+    "r": 244,
+    "g": 213,
+    "b": 186
+  },
+  {
+    "name": "Caparol Onyx 15",
+    "r": 199,
+    "g": 192,
+    "b": 186
+  },
+  {
+    "name": "Caparol Onyx 150",
+    "r": 248,
+    "g": 223,
+    "b": 203
+  },
+  {
+    "name": "Caparol Onyx 155",
+    "r": 188,
+    "g": 133,
+    "b": 79
+  },
+  {
+    "name": "Caparol Onyx 160",
+    "r": 194,
+    "g": 145,
+    "b": 98
+  },
+  {
+    "name": "Caparol Onyx 165",
+    "r": 229,
+    "g": 171,
+    "b": 123
+  },
+  {
+    "name": "Caparol Onyx 170",
+    "r": 241,
+    "g": 187,
+    "b": 136
+  },
+  {
+    "name": "Caparol Onyx 175",
+    "r": 249,
+    "g": 202,
+    "b": 159
+  },
+  {
+    "name": "Caparol Onyx 180",
+    "r": 251,
+    "g": 216,
+    "b": 187
+  },
+  {
+    "name": "Caparol Onyx 185",
+    "r": 220,
+    "g": 155,
+    "b": 92
+  },
+  {
+    "name": "Caparol Onyx 190",
+    "r": 230,
+    "g": 158,
+    "b": 90
+  },
+  {
+    "name": "Caparol Onyx 195",
+    "r": 244,
+    "g": 176,
+    "b": 110
+  },
+  {
+    "name": "Caparol Onyx 20",
+    "r": 213,
+    "g": 204,
+    "b": 198
+  },
+  {
+    "name": "Caparol Onyx 200",
+    "r": 254,
+    "g": 191,
+    "b": 134
+  },
+  {
+    "name": "Caparol Onyx 205",
+    "r": 255,
+    "g": 207,
+    "b": 159
+  },
+  {
+    "name": "Caparol Onyx 210",
+    "r": 242,
+    "g": 234,
+    "b": 226
+  },
+  {
+    "name": "Caparol Onyx 215",
+    "r": 225,
+    "g": 139,
+    "b": 49
+  },
+  {
+    "name": "Caparol Onyx 220",
+    "r": 237,
+    "g": 150,
+    "b": 55
+  },
+  {
+    "name": "Caparol Onyx 225",
+    "r": 255,
+    "g": 179,
+    "b": 89
+  },
+  {
+    "name": "Caparol Onyx 230",
+    "r": 255,
+    "g": 180,
+    "b": 97
+  },
+  {
+    "name": "Caparol Onyx 235",
+    "r": 255,
+    "g": 192,
+    "b": 121
+  },
+  {
+    "name": "Caparol Onyx 240",
+    "r": 255,
+    "g": 201,
+    "b": 145
+  },
+  {
+    "name": "Caparol Onyx 25",
+    "r": 212,
+    "g": 206,
+    "b": 201
+  },
+  {
+    "name": "Caparol Onyx 30",
+    "r": 221,
+    "g": 218,
+    "b": 214
+  },
+  {
+    "name": "Caparol Onyx 35",
+    "r": 126,
+    "g": 115,
+    "b": 107
+  },
+  {
+    "name": "Caparol Onyx 40",
+    "r": 147,
+    "g": 137,
+    "b": 128
+  },
+  {
+    "name": "Caparol Onyx 45",
+    "r": 184,
+    "g": 173,
+    "b": 164
+  },
+  {
+    "name": "Caparol Onyx 5",
+    "r": 173,
+    "g": 166,
+    "b": 161
+  },
+  {
+    "name": "Caparol Onyx 50",
+    "r": 223,
+    "g": 211,
+    "b": 202
+  },
+  {
+    "name": "Caparol Onyx 55",
+    "r": 226,
+    "g": 217,
+    "b": 209
+  },
+  {
+    "name": "Caparol Onyx 60",
+    "r": 239,
+    "g": 231,
+    "b": 224
+  },
+  {
+    "name": "Caparol Onyx 65",
+    "r": 178,
+    "g": 152,
+    "b": 130
+  },
+  {
+    "name": "Caparol Onyx 70",
+    "r": 206,
+    "g": 188,
+    "b": 173
+  },
+  {
+    "name": "Caparol Onyx 75",
+    "r": 223,
+    "g": 201,
+    "b": 181
+  },
+  {
+    "name": "Caparol Onyx 80",
+    "r": 228,
+    "g": 210,
+    "b": 193
+  },
+  {
+    "name": "Caparol Onyx 85",
+    "r": 237,
+    "g": 224,
+    "b": 213
+  },
+  {
+    "name": "Caparol Onyx 90",
+    "r": 243,
+    "g": 230,
+    "b": 218
+  },
+  {
+    "name": "Caparol Onyx 95",
+    "r": 154,
+    "g": 130,
+    "b": 109
+  },
+  {
+    "name": "Caparol Pacific 10",
+    "r": 89,
+    "g": 97,
+    "b": 103
+  },
+  {
+    "name": "Caparol Pacific 100",
+    "r": 69,
+    "g": 98,
+    "b": 113
+  },
+  {
+    "name": "Caparol Pacific 105",
+    "r": 125,
+    "g": 152,
+    "b": 166
+  },
+  {
+    "name": "Caparol Pacific 110",
+    "r": 125,
+    "g": 146,
+    "b": 158
+  },
+  {
+    "name": "Caparol Pacific 115",
+    "r": 176,
+    "g": 202,
+    "b": 214
+  },
+  {
+    "name": "Caparol Pacific 120",
+    "r": 182,
+    "g": 202,
+    "b": 211
+  },
+  {
+    "name": "Caparol Pacific 125",
+    "r": 49,
+    "g": 89,
+    "b": 107
+  },
+  {
+    "name": "Caparol Pacific 130",
+    "r": 55,
+    "g": 104,
+    "b": 123
+  },
+  {
+    "name": "Caparol Pacific 135",
+    "r": 94,
+    "g": 124,
+    "b": 142
+  },
+  {
+    "name": "Caparol Pacific 140",
+    "r": 117,
+    "g": 148,
+    "b": 164
+  },
+  {
+    "name": "Caparol Pacific 145",
+    "r": 146,
+    "g": 175,
+    "b": 189
+  },
+  {
+    "name": "Caparol Pacific 15",
+    "r": 148,
+    "g": 159,
+    "b": 164
+  },
+  {
+    "name": "Caparol Pacific 150",
+    "r": 171,
+    "g": 204,
+    "b": 218
+  },
+  {
+    "name": "Caparol Pacific 155",
+    "r": 22,
+    "g": 116,
+    "b": 145
+  },
+  {
+    "name": "Caparol Pacific 160",
+    "r": 82,
+    "g": 126,
+    "b": 148
+  },
+  {
+    "name": "Caparol Pacific 165",
+    "r": 62,
+    "g": 143,
+    "b": 173
+  },
+  {
+    "name": "Caparol Pacific 170",
+    "r": 103,
+    "g": 151,
+    "b": 173
+  },
+  {
+    "name": "Caparol Pacific 175",
+    "r": 103,
+    "g": 167,
+    "b": 194
+  },
+  {
+    "name": "Caparol Pacific 180",
+    "r": 150,
+    "g": 204,
+    "b": 226
+  },
+  {
+    "name": "Caparol Pacific 20",
+    "r": 177,
+    "g": 183,
+    "b": 184
+  },
+  {
+    "name": "Caparol Pacific 25",
+    "r": 197,
+    "g": 199,
+    "b": 199
+  },
+  {
+    "name": "Caparol Pacific 30",
+    "r": 214,
+    "g": 217,
+    "b": 215
+  },
+  {
+    "name": "Caparol Pacific 35",
+    "r": 80,
+    "g": 98,
+    "b": 109
+  },
+  {
+    "name": "Caparol Pacific 40",
+    "r": 97,
+    "g": 110,
+    "b": 119
+  },
+  {
+    "name": "Caparol Pacific 45",
+    "r": 117,
+    "g": 132,
+    "b": 140
+  },
+  {
+    "name": "Caparol Pacific 5",
+    "r": 68,
+    "g": 76,
+    "b": 82
+  },
+  {
+    "name": "Caparol Pacific 50",
+    "r": 186,
+    "g": 193,
+    "b": 195
+  },
+  {
+    "name": "Caparol Pacific 55",
+    "r": 203,
+    "g": 207,
+    "b": 209
+  },
+  {
+    "name": "Caparol Pacific 60",
+    "r": 220,
+    "g": 223,
+    "b": 221
+  },
+  {
+    "name": "Caparol Pacific 65",
+    "r": 149,
+    "g": 161,
+    "b": 168
+  },
+  {
+    "name": "Caparol Pacific 70",
+    "r": 156,
+    "g": 173,
+    "b": 183
+  },
+  {
+    "name": "Caparol Pacific 75",
+    "r": 159,
+    "g": 175,
+    "b": 183
+  },
+  {
+    "name": "Caparol Pacific 80",
+    "r": 185,
+    "g": 200,
+    "b": 206
+  },
+  {
+    "name": "Caparol Pacific 85",
+    "r": 217,
+    "g": 225,
+    "b": 224
+  },
+  {
+    "name": "Caparol Pacific 90",
+    "r": 225,
+    "g": 232,
+    "b": 229
+  },
+  {
+    "name": "Caparol Pacific 95",
+    "r": 43,
+    "g": 73,
+    "b": 91
+  },
+  {
+    "name": "Caparol Palazzo 10",
+    "r": 175,
+    "g": 171,
+    "b": 166
+  },
+  {
+    "name": "Caparol Palazzo 100",
+    "r": 150,
+    "g": 137,
+    "b": 123
+  },
+  {
+    "name": "Caparol Palazzo 105",
+    "r": 169,
+    "g": 157,
+    "b": 143
+  },
+  {
+    "name": "Caparol Palazzo 110",
+    "r": 182,
+    "g": 171,
+    "b": 158
+  },
+  {
+    "name": "Caparol Palazzo 115",
+    "r": 216,
+    "g": 206,
+    "b": 194
+  },
+  {
+    "name": "Caparol Palazzo 120",
+    "r": 231,
+    "g": 218,
+    "b": 202
+  },
+  {
+    "name": "Caparol Palazzo 125",
+    "r": 94,
+    "g": 83,
+    "b": 70
+  },
+  {
+    "name": "Caparol Palazzo 130",
+    "r": 115,
+    "g": 104,
+    "b": 89
+  },
+  {
+    "name": "Caparol Palazzo 135",
+    "r": 141,
+    "g": 125,
+    "b": 106
+  },
+  {
+    "name": "Caparol Palazzo 140",
+    "r": 175,
+    "g": 157,
+    "b": 137
+  },
+  {
+    "name": "Caparol Palazzo 145",
+    "r": 198,
+    "g": 182,
+    "b": 162
+  },
+  {
+    "name": "Caparol Palazzo 15",
+    "r": 188,
+    "g": 184,
+    "b": 179
+  },
+  {
+    "name": "Caparol Palazzo 150",
+    "r": 219,
+    "g": 201,
+    "b": 179
+  },
+  {
+    "name": "Caparol Palazzo 155",
+    "r": 109,
+    "g": 93,
+    "b": 74
+  },
+  {
+    "name": "Caparol Palazzo 160",
+    "r": 126,
+    "g": 111,
+    "b": 90
+  },
+  {
+    "name": "Caparol Palazzo 165",
+    "r": 154,
+    "g": 137,
+    "b": 114
+  },
+  {
+    "name": "Caparol Palazzo 170",
+    "r": 208,
+    "g": 188,
+    "b": 159
+  },
+  {
+    "name": "Caparol Palazzo 175",
+    "r": 233,
+    "g": 207,
+    "b": 177
+  },
+  {
+    "name": "Caparol Palazzo 180",
+    "r": 246,
+    "g": 228,
+    "b": 206
+  },
+  {
+    "name": "Caparol Palazzo 185",
+    "r": 122,
+    "g": 97,
+    "b": 66
+  },
+  {
+    "name": "Caparol Palazzo 190",
+    "r": 152,
+    "g": 124,
+    "b": 87
+  },
+  {
+    "name": "Caparol Palazzo 195",
+    "r": 185,
+    "g": 158,
+    "b": 120
+  },
+  {
+    "name": "Caparol Palazzo 20",
+    "r": 200,
+    "g": 197,
+    "b": 192
+  },
+  {
+    "name": "Caparol Palazzo 200",
+    "r": 198,
+    "g": 171,
+    "b": 136
+  },
+  {
+    "name": "Caparol Palazzo 205",
+    "r": 225,
+    "g": 193,
+    "b": 155
+  },
+  {
+    "name": "Caparol Palazzo 210",
+    "r": 245,
+    "g": 222,
+    "b": 193
+  },
+  {
+    "name": "Caparol Palazzo 215",
+    "r": 175,
+    "g": 138,
+    "b": 86
+  },
+  {
+    "name": "Caparol Palazzo 220",
+    "r": 202,
+    "g": 170,
+    "b": 126
+  },
+  {
+    "name": "Caparol Palazzo 225",
+    "r": 213,
+    "g": 179,
+    "b": 137
+  },
+  {
+    "name": "Caparol Palazzo 230",
+    "r": 243,
+    "g": 205,
+    "b": 157
+  },
+  {
+    "name": "Caparol Palazzo 235",
+    "r": 252,
+    "g": 219,
+    "b": 177
+  },
+  {
+    "name": "Caparol Palazzo 240",
+    "r": 244,
+    "g": 231,
+    "b": 213
+  },
+  {
+    "name": "Caparol Palazzo 245",
+    "r": 156,
+    "g": 121,
+    "b": 73
+  },
+  {
+    "name": "Caparol Palazzo 25",
+    "r": 216,
+    "g": 212,
+    "b": 206
+  },
+  {
+    "name": "Caparol Palazzo 250",
+    "r": 178,
+    "g": 136,
+    "b": 74
+  },
+  {
+    "name": "Caparol Palazzo 255",
+    "r": 213,
+    "g": 167,
+    "b": 102
+  },
+  {
+    "name": "Caparol Palazzo 260",
+    "r": 226,
+    "g": 182,
+    "b": 126
+  },
+  {
+    "name": "Caparol Palazzo 265",
+    "r": 248,
+    "g": 203,
+    "b": 141
+  },
+  {
+    "name": "Caparol Palazzo 270",
+    "r": 254,
+    "g": 215,
+    "b": 157
+  },
+  {
+    "name": "Caparol Palazzo 275",
+    "r": 148,
+    "g": 108,
+    "b": 59
+  },
+  {
+    "name": "Caparol Palazzo 280",
+    "r": 157,
+    "g": 117,
+    "b": 62
+  },
+  {
+    "name": "Caparol Palazzo 285",
+    "r": 212,
+    "g": 160,
+    "b": 81
+  },
+  {
+    "name": "Caparol Palazzo 290",
+    "r": 224,
+    "g": 170,
+    "b": 92
+  },
+  {
+    "name": "Caparol Palazzo 295",
+    "r": 239,
+    "g": 187,
+    "b": 115
+  },
+  {
+    "name": "Caparol Palazzo 30",
+    "r": 229,
+    "g": 225,
+    "b": 219
+  },
+  {
+    "name": "Caparol Palazzo 300",
+    "r": 255,
+    "g": 210,
+    "b": 142
+  },
+  {
+    "name": "Caparol Palazzo 305",
+    "r": 181,
+    "g": 132,
+    "b": 64
+  },
+  {
+    "name": "Caparol Palazzo 310",
+    "r": 195,
+    "g": 141,
+    "b": 59
+  },
+  {
+    "name": "Caparol Palazzo 315",
+    "r": 200,
+    "g": 148,
+    "b": 68
+  },
+  {
+    "name": "Caparol Palazzo 320",
+    "r": 230,
+    "g": 171,
+    "b": 71
+  },
+  {
+    "name": "Caparol Palazzo 325",
+    "r": 254,
+    "g": 199,
+    "b": 120
+  },
+  {
+    "name": "Caparol Palazzo 330",
+    "r": 254,
+    "g": 206,
+    "b": 122
+  },
+  {
+    "name": "Caparol Palazzo 335",
+    "r": 191,
+    "g": 138,
+    "b": 50
+  },
+  {
+    "name": "Caparol Palazzo 340",
+    "r": 207,
+    "g": 148,
+    "b": 54
+  },
+  {
+    "name": "Caparol Palazzo 345",
+    "r": 229,
+    "g": 170,
+    "b": 53
+  },
+  {
+    "name": "Caparol Palazzo 35",
+    "r": 135,
+    "g": 128,
+    "b": 121
+  },
+  {
+    "name": "Caparol Palazzo 350",
+    "r": 255,
+    "g": 181,
+    "b": 17
+  },
+  {
+    "name": "Caparol Palazzo 355",
+    "r": 254,
+    "g": 184,
+    "b": 60
+  },
+  {
+    "name": "Caparol Palazzo 360",
+    "r": 255,
+    "g": 201,
+    "b": 97
+  },
+  {
+    "name": "Caparol Palazzo 40",
+    "r": 171,
+    "g": 165,
+    "b": 158
+  },
+  {
+    "name": "Caparol Palazzo 45",
+    "r": 189,
+    "g": 182,
+    "b": 174
+  },
+  {
+    "name": "Caparol Palazzo 5",
+    "r": 162,
+    "g": 157,
+    "b": 153
+  },
+  {
+    "name": "Caparol Palazzo 50",
+    "r": 207,
+    "g": 200,
+    "b": 190
+  },
+  {
+    "name": "Caparol Palazzo 55",
+    "r": 223,
+    "g": 214,
+    "b": 204
+  },
+  {
+    "name": "Caparol Palazzo 60",
+    "r": 232,
+    "g": 224,
+    "b": 216
+  },
+  {
+    "name": "Caparol Palazzo 65",
+    "r": 79,
+    "g": 74,
+    "b": 70
+  },
+  {
+    "name": "Caparol Palazzo 70",
+    "r": 103,
+    "g": 97,
+    "b": 90
+  },
+  {
+    "name": "Caparol Palazzo 75",
+    "r": 127,
+    "g": 121,
+    "b": 114
+  },
+  {
+    "name": "Caparol Palazzo 80",
+    "r": 161,
+    "g": 153,
+    "b": 143
+  },
+  {
+    "name": "Caparol Palazzo 85",
+    "r": 197,
+    "g": 186,
+    "b": 173
+  },
+  {
+    "name": "Caparol Palazzo 90",
+    "r": 240,
+    "g": 231,
+    "b": 218
+  },
+  {
+    "name": "Caparol Palazzo 95",
+    "r": 137,
+    "g": 128,
+    "b": 117
+  },
+  {
+    "name": "Caparol Papaya 10",
+    "r": 129,
+    "g": 111,
+    "b": 101
+  },
+  {
+    "name": "Caparol Papaya 100",
+    "r": 220,
+    "g": 136,
+    "b": 91
+  },
+  {
+    "name": "Caparol Papaya 105",
+    "r": 227,
+    "g": 154,
+    "b": 114
+  },
+  {
+    "name": "Caparol Papaya 110",
+    "r": 233,
+    "g": 173,
+    "b": 141
+  },
+  {
+    "name": "Caparol Papaya 115",
+    "r": 242,
+    "g": 195,
+    "b": 171
+  },
+  {
+    "name": "Caparol Papaya 120",
+    "r": 246,
+    "g": 215,
+    "b": 198
+  },
+  {
+    "name": "Caparol Papaya 125",
+    "r": 242,
+    "g": 124,
+    "b": 57
+  },
+  {
+    "name": "Caparol Papaya 130",
+    "r": 251,
+    "g": 144,
+    "b": 85
+  },
+  {
+    "name": "Caparol Papaya 135",
+    "r": 253,
+    "g": 162,
+    "b": 113
+  },
+  {
+    "name": "Caparol Papaya 140",
+    "r": 253,
+    "g": 179,
+    "b": 139
+  },
+  {
+    "name": "Caparol Papaya 145",
+    "r": 255,
+    "g": 199,
+    "b": 170
+  },
+  {
+    "name": "Caparol Papaya 15",
+    "r": 151,
+    "g": 134,
+    "b": 126
+  },
+  {
+    "name": "Caparol Papaya 150",
+    "r": 253,
+    "g": 217,
+    "b": 198
+  },
+  {
+    "name": "Caparol Papaya 20.",
+    "r": 171,
+    "g": 154,
+    "b": 146
+  },
+  {
+    "name": "Caparol Papaya 25",
+    "r": 194,
+    "g": 180,
+    "b": 172
+  },
+  {
+    "name": "Caparol Papaya 30",
+    "r": 215,
+    "g": 203,
+    "b": 196
+  },
+  {
+    "name": "Caparol Papaya 35",
+    "r": 139,
+    "g": 95,
+    "b": 73
+  },
+  {
+    "name": "Caparol Papaya 40",
+    "r": 161,
+    "g": 119,
+    "b": 99
+  },
+  {
+    "name": "Caparol Papaya 45",
+    "r": 178,
+    "g": 141,
+    "b": 123
+  },
+  {
+    "name": "Caparol Papaya 5",
+    "r": 103,
+    "g": 83,
+    "b": 74
+  },
+  {
+    "name": "Caparol Papaya 50",
+    "r": 192,
+    "g": 161,
+    "b": 145
+  },
+  {
+    "name": "Caparol Papaya 55",
+    "r": 209,
+    "g": 184,
+    "b": 170
+  },
+  {
+    "name": "Caparol Papaya 60",
+    "r": 225,
+    "g": 207,
+    "b": 197
+  },
+  {
+    "name": "Caparol Papaya 65",
+    "r": 177,
+    "g": 109,
+    "b": 72
+  },
+  {
+    "name": "Caparol Papaya 70",
+    "r": 188,
+    "g": 125,
+    "b": 92
+  },
+  {
+    "name": "Caparol Papaya 75",
+    "r": 203,
+    "g": 149,
+    "b": 118
+  },
+  {
+    "name": "Caparol Papaya 80",
+    "r": 216,
+    "g": 170,
+    "b": 147
+  },
+  {
+    "name": "Caparol Papaya 85",
+    "r": 225,
+    "g": 189,
+    "b": 170
+  },
+  {
+    "name": "Caparol Papaya 90",
+    "r": 237,
+    "g": 213,
+    "b": 200
+  },
+  {
+    "name": "Caparol Papaya 95",
+    "r": 209,
+    "g": 117,
+    "b": 65
+  },
+  {
+    "name": "Caparol Patina 10",
+    "r": 154,
+    "g": 174,
+    "b": 168
+  },
+  {
+    "name": "Caparol Patina 100",
+    "r": 53,
+    "g": 130,
+    "b": 115
+  },
+  {
+    "name": "Caparol Patina 105",
+    "r": 58,
+    "g": 155,
+    "b": 137
+  },
+  {
+    "name": "Caparol Patina 110",
+    "r": 90,
+    "g": 152,
+    "b": 138
+  },
+  {
+    "name": "Caparol Patina 115",
+    "r": 98,
+    "g": 184,
+    "b": 165
+  },
+  {
+    "name": "Caparol Patina 120",
+    "r": 124,
+    "g": 179,
+    "b": 165
+  },
+  {
+    "name": "Caparol Patina 15",
+    "r": 173,
+    "g": 188,
+    "b": 182
+  },
+  {
+    "name": "Caparol Patina 20",
+    "r": 187,
+    "g": 200,
+    "b": 194
+  },
+  {
+    "name": "Caparol Patina 25",
+    "r": 207,
+    "g": 213,
+    "b": 209
+  },
+  {
+    "name": "Caparol Patina 30",
+    "r": 233,
+    "g": 233,
+    "b": 228
+  },
+  {
+    "name": "Caparol Patina 35",
+    "r": 78,
+    "g": 87,
+    "b": 85
+  },
+  {
+    "name": "Caparol Patina 40",
+    "r": 68,
+    "g": 88,
+    "b": 82
+  },
+  {
+    "name": "Caparol Patina 45",
+    "r": 91,
+    "g": 111,
+    "b": 106
+  },
+  {
+    "name": "Caparol Patina 5",
+    "r": 120,
+    "g": 146,
+    "b": 139
+  },
+  {
+    "name": "Caparol Patina 50",
+    "r": 137,
+    "g": 152,
+    "b": 147
+  },
+  {
+    "name": "Caparol Patina 55",
+    "r": 169,
+    "g": 191,
+    "b": 185
+  },
+  {
+    "name": "Caparol Patina 60",
+    "r": 193,
+    "g": 213,
+    "b": 206
+  },
+  {
+    "name": "Caparol Patina 65",
+    "r": 47,
+    "g": 89,
+    "b": 80
+  },
+  {
+    "name": "Caparol Patina 70",
+    "r": 95,
+    "g": 124,
+    "b": 116
+  },
+  {
+    "name": "Caparol Patina 75",
+    "r": 131,
+    "g": 162,
+    "b": 154
+  },
+  {
+    "name": "Caparol Patina 80",
+    "r": 163,
+    "g": 192,
+    "b": 182
+  },
+  {
+    "name": "Caparol Patina 85",
+    "r": 162,
+    "g": 207,
+    "b": 195
+  },
+  {
+    "name": "Caparol Patina 90",
+    "r": 227,
+    "g": 234,
+    "b": 226
+  },
+  {
+    "name": "Caparol Patina 95",
+    "r": 41,
+    "g": 116,
+    "b": 102
+  },
+  {
+    "name": "Caparol Peru 10",
+    "r": 37,
+    "g": 99,
+    "b": 88
+  },
+  {
+    "name": "Caparol Peru 15",
+    "r": 45,
+    "g": 80,
+    "b": 77
+  },
+  {
+    "name": "Caparol Peru 20",
+    "r": 0,
+    "g": 129,
+    "b": 120
+  },
+  {
+    "name": "Caparol Peru 25",
+    "r": 44,
+    "g": 86,
+    "b": 92
+  },
+  {
+    "name": "Caparol Peru 30",
+    "r": 0,
+    "g": 112,
+    "b": 121
+  },
+  {
+    "name": "Caparol Peru 5",
+    "r": 46,
+    "g": 88,
+    "b": 80
+  },
+  {
+    "name": "Caparol Pinie 10",
+    "r": 114,
+    "g": 115,
+    "b": 96
+  },
+  {
+    "name": "Caparol Pinie 100",
+    "r": 158,
+    "g": 173,
+    "b": 74
+  },
+  {
+    "name": "Caparol Pinie 105",
+    "r": 175,
+    "g": 188,
+    "b": 102
+  },
+  {
+    "name": "Caparol Pinie 105",
+    "r": 175,
+    "g": 188,
+    "b": 103
+  },
+  {
+    "name": "Caparol Pinie 110",
+    "r": 190,
+    "g": 202,
+    "b": 131
+  },
+  {
+    "name": "Caparol Pinie 115",
+    "r": 210,
+    "g": 217,
+    "b": 161
+  },
+  {
+    "name": "Caparol Pinie 120",
+    "r": 225,
+    "g": 228,
+    "b": 188
+  },
+  {
+    "name": "Caparol Pinie 15",
+    "r": 138,
+    "g": 140,
+    "b": 122
+  },
+  {
+    "name": "Caparol Pinie 20",
+    "r": 164,
+    "g": 164,
+    "b": 148
+  },
+  {
+    "name": "Caparol Pinie 25",
+    "r": 190,
+    "g": 191,
+    "b": 177
+  },
+  {
+    "name": "Caparol Pinie 30",
+    "r": 214,
+    "g": 214,
+    "b": 203
+  },
+  {
+    "name": "Caparol Pinie 35",
+    "r": 108,
+    "g": 113,
+    "b": 66
+  },
+  {
+    "name": "Caparol Pinie 40",
+    "r": 126,
+    "g": 133,
+    "b": 90
+  },
+  {
+    "name": "Caparol Pinie 45",
+    "r": 149,
+    "g": 154,
+    "b": 115
+  },
+  {
+    "name": "Caparol Pinie 5",
+    "r": 92,
+    "g": 94,
+    "b": 74
+  },
+  {
+    "name": "Caparol Pinie 50",
+    "r": 170,
+    "g": 175,
+    "b": 142
+  },
+  {
+    "name": "Caparol Pinie 55",
+    "r": 196,
+    "g": 198,
+    "b": 172
+  },
+  {
+    "name": "Caparol Pinie 60",
+    "r": 218,
+    "g": 220,
+    "b": 198
+  },
+  {
+    "name": "Caparol Pinie 65",
+    "r": 122,
+    "g": 135,
+    "b": 58
+  },
+  {
+    "name": "Caparol Pinie 70",
+    "r": 142,
+    "g": 155,
+    "b": 85
+  },
+  {
+    "name": "Caparol Pinie 75",
+    "r": 161,
+    "g": 171,
+    "b": 109
+  },
+  {
+    "name": "Caparol Pinie 80",
+    "r": 181,
+    "g": 189,
+    "b": 138
+  },
+  {
+    "name": "Caparol Pinie 85",
+    "r": 202,
+    "g": 207,
+    "b": 168
+  },
+  {
+    "name": "Caparol Pinie 90",
+    "r": 220,
+    "g": 224,
+    "b": 196
+  },
+  {
+    "name": "Caparol Pinie 95",
+    "r": 134,
+    "g": 160,
+    "b": 46
+  },
+  {
+    "name": "Caparol Pink 10",
+    "r": 190,
+    "g": 89,
+    "b": 122
+  },
+  {
+    "name": "Caparol Pink 15",
+    "r": 99,
+    "g": 64,
+    "b": 81
+  },
+  {
+    "name": "Caparol Pink 20",
+    "r": 181,
+    "g": 95,
+    "b": 137
+  },
+  {
+    "name": "Caparol Pink 25",
+    "r": 106,
+    "g": 74,
+    "b": 97
+  },
+  {
+    "name": "Caparol Pink 30",
+    "r": 164,
+    "g": 105,
+    "b": 153
+  },
+  {
+    "name": "Caparol Pink 5",
+    "r": 134,
+    "g": 63,
+    "b": 83
+  },
+  {
+    "name": "Caparol Rose 10",
+    "r": 213,
+    "g": 207,
+    "b": 204
+  },
+  {
+    "name": "Caparol Rose 100",
+    "r": 174,
+    "g": 84,
+    "b": 106
+  },
+  {
+    "name": "Caparol Rose 105",
+    "r": 143,
+    "g": 96,
+    "b": 104
+  },
+  {
+    "name": "Caparol Rose 110",
+    "r": 173,
+    "g": 112,
+    "b": 121
+  },
+  {
+    "name": "Caparol Rose 115",
+    "r": 215,
+    "g": 134,
+    "b": 146
+  },
+  {
+    "name": "Caparol Rose 120",
+    "r": 219,
+    "g": 172,
+    "b": 178
+  },
+  {
+    "name": "Caparol Rose 15",
+    "r": 232,
+    "g": 218,
+    "b": 215
+  },
+  {
+    "name": "Caparol Rose 20",
+    "r": 232,
+    "g": 223,
+    "b": 220
+  },
+  {
+    "name": "Caparol Rose 25",
+    "r": 231,
+    "g": 225,
+    "b": 221
+  },
+  {
+    "name": "Caparol Rose 30",
+    "r": 235,
+    "g": 230,
+    "b": 223
+  },
+  {
+    "name": "Caparol Rose 35",
+    "r": 158,
+    "g": 138,
+    "b": 140
+  },
+  {
+    "name": "Caparol Rose 40",
+    "r": 187,
+    "g": 162,
+    "b": 163
+  },
+  {
+    "name": "Caparol Rose 45",
+    "r": 185,
+    "g": 170,
+    "b": 171
+  },
+  {
+    "name": "Caparol Rose 5",
+    "r": 191,
+    "g": 183,
+    "b": 181
+  },
+  {
+    "name": "Caparol Rose 50",
+    "r": 200,
+    "g": 181,
+    "b": 183
+  },
+  {
+    "name": "Caparol Rose 55",
+    "r": 221,
+    "g": 201,
+    "b": 200
+  },
+  {
+    "name": "Caparol Rose 60",
+    "r": 241,
+    "g": 226,
+    "b": 225
+  },
+  {
+    "name": "Caparol Rose 65",
+    "r": 114,
+    "g": 91,
+    "b": 95
+  },
+  {
+    "name": "Caparol Rose 70",
+    "r": 134,
+    "g": 112,
+    "b": 115
+  },
+  {
+    "name": "Caparol Rose 75",
+    "r": 163,
+    "g": 121,
+    "b": 127
+  },
+  {
+    "name": "Caparol Rose 80",
+    "r": 187,
+    "g": 145,
+    "b": 151
+  },
+  {
+    "name": "Caparol Rose 85",
+    "r": 211,
+    "g": 176,
+    "b": 182
+  },
+  {
+    "name": "Caparol Rose 90",
+    "r": 244,
+    "g": 218,
+    "b": 218
+  },
+  {
+    "name": "Caparol Rose 95",
+    "r": 174,
+    "g": 72,
+    "b": 97
+  },
+  {
+    "name": "Caparol Rubin 10",
+    "r": 174,
+    "g": 65,
+    "b": 72
+  },
+  {
+    "name": "Caparol Rubin 15",
+    "r": 130,
+    "g": 68,
+    "b": 62
+  },
+  {
+    "name": "Caparol Rubin 20",
+    "r": 171,
+    "g": 65,
+    "b": 58
+  },
+  {
+    "name": "Caparol Rubin 25",
+    "r": 108,
+    "g": 74,
+    "b": 64
+  },
+  {
+    "name": "Caparol Rubin 30",
+    "r": 199,
+    "g": 83,
+    "b": 58
+  },
+  {
+    "name": "Caparol Rubin 5",
+    "r": 95,
+    "g": 65,
+    "b": 70
+  },
+  {
+    "name": "Caparol Saphir 10",
+    "r": 87,
+    "g": 96,
+    "b": 108
+  },
+  {
+    "name": "Caparol Saphir 100",
+    "r": 85,
+    "g": 121,
+    "b": 160
+  },
+  {
+    "name": "Caparol Saphir 105",
+    "r": 118,
+    "g": 148,
+    "b": 181
+  },
+  {
+    "name": "Caparol Saphir 110",
+    "r": 148,
+    "g": 170,
+    "b": 196
+  },
+  {
+    "name": "Caparol Saphir 115",
+    "r": 181,
+    "g": 198,
+    "b": 217
+  },
+  {
+    "name": "Caparol Saphir 120",
+    "r": 215,
+    "g": 223,
+    "b": 234
+  },
+  {
+    "name": "Caparol Saphir 15",
+    "r": 116,
+    "g": 123,
+    "b": 132
+  },
+  {
+    "name": "Caparol Saphir 20",
+    "r": 142,
+    "g": 149,
+    "b": 157
+  },
+  {
+    "name": "Caparol Saphir 25",
+    "r": 172,
+    "g": 176,
+    "b": 182
+  },
+  {
+    "name": "Caparol Saphir 30",
+    "r": 204,
+    "g": 206,
+    "b": 208
+  },
+  {
+    "name": "Caparol Saphir 35",
+    "r": 63,
+    "g": 82,
+    "b": 103
+  },
+  {
+    "name": "Caparol Saphir 40",
+    "r": 88,
+    "g": 104,
+    "b": 123
+  },
+  {
+    "name": "Caparol Saphir 45",
+    "r": 116,
+    "g": 129,
+    "b": 146
+  },
+  {
+    "name": "Caparol Saphir 5",
+    "r": 66,
+    "g": 74,
+    "b": 86
+  },
+  {
+    "name": "Caparol Saphir 50",
+    "r": 145,
+    "g": 154,
+    "b": 168
+  },
+  {
+    "name": "Caparol Saphir 55",
+    "r": 176,
+    "g": 183,
+    "b": 193
+  },
+  {
+    "name": "Caparol Saphir 60",
+    "r": 207,
+    "g": 212,
+    "b": 217
+  },
+  {
+    "name": "Caparol Saphir 65",
+    "r": 55,
+    "g": 90,
+    "b": 121
+  },
+  {
+    "name": "Caparol Saphir 70",
+    "r": 87,
+    "g": 114,
+    "b": 143
+  },
+  {
+    "name": "Caparol Saphir 75",
+    "r": 117,
+    "g": 138,
+    "b": 162
+  },
+  {
+    "name": "Caparol Saphir 80",
+    "r": 150,
+    "g": 166,
+    "b": 186
+  },
+  {
+    "name": "Caparol Saphir 85",
+    "r": 179,
+    "g": 191,
+    "b": 205
+  },
+  {
+    "name": "Caparol Saphir 90",
+    "r": 211,
+    "g": 218,
+    "b": 225
+  },
+  {
+    "name": "Caparol Saphir 95",
+    "r": 48,
+    "g": 97,
+    "b": 138
+  },
+  {
+    "name": "Caparol Siena 10",
+    "r": 146,
+    "g": 131,
+    "b": 120
+  },
+  {
+    "name": "Caparol Siena 100",
+    "r": 218,
+    "g": 179,
+    "b": 154
+  },
+  {
+    "name": "Caparol Siena 105",
+    "r": 219,
+    "g": 185,
+    "b": 160
+  },
+  {
+    "name": "Caparol Siena 110",
+    "r": 237,
+    "g": 199,
+    "b": 173
+  },
+  {
+    "name": "Caparol Siena 115",
+    "r": 244,
+    "g": 216,
+    "b": 194
+  },
+  {
+    "name": "Caparol Siena 120",
+    "r": 243,
+    "g": 221,
+    "b": 204
+  },
+  {
+    "name": "Caparol Siena 125",
+    "r": 211,
+    "g": 150,
+    "b": 97
+  },
+  {
+    "name": "Caparol Siena 130",
+    "r": 198,
+    "g": 148,
+    "b": 109
+  },
+  {
+    "name": "Caparol Siena 135",
+    "r": 225,
+    "g": 173,
+    "b": 132
+  },
+  {
+    "name": "Caparol Siena 140",
+    "r": 253,
+    "g": 201,
+    "b": 162
+  },
+  {
+    "name": "Caparol Siena 145",
+    "r": 253,
+    "g": 217,
+    "b": 191
+  },
+  {
+    "name": "Caparol Siena 15",
+    "r": 167,
+    "g": 155,
+    "b": 146
+  },
+  {
+    "name": "Caparol Siena 150",
+    "r": 250,
+    "g": 225,
+    "b": 210
+  },
+  {
+    "name": "Caparol Siena 155",
+    "r": 198,
+    "g": 127,
+    "b": 67
+  },
+  {
+    "name": "Caparol Siena 160",
+    "r": 229,
+    "g": 152,
+    "b": 90
+  },
+  {
+    "name": "Caparol Siena 165",
+    "r": 236,
+    "g": 171,
+    "b": 123
+  },
+  {
+    "name": "Caparol Siena 170",
+    "r": 255,
+    "g": 180,
+    "b": 115
+  },
+  {
+    "name": "Caparol Siena 175",
+    "r": 255,
+    "g": 193,
+    "b": 144
+  },
+  {
+    "name": "Caparol Siena 180",
+    "r": 255,
+    "g": 200,
+    "b": 151
+  },
+  {
+    "name": "Caparol Siena 20",
+    "r": 195,
+    "g": 185,
+    "b": 178
+  },
+  {
+    "name": "Caparol Siena 25",
+    "r": 219,
+    "g": 213,
+    "b": 207
+  },
+  {
+    "name": "Caparol Siena 30",
+    "r": 229,
+    "g": 224,
+    "b": 219
+  },
+  {
+    "name": "Caparol Siena 35",
+    "r": 146,
+    "g": 123,
+    "b": 108
+  },
+  {
+    "name": "Caparol Siena 40",
+    "r": 167,
+    "g": 145,
+    "b": 130
+  },
+  {
+    "name": "Caparol Siena 45",
+    "r": 193,
+    "g": 173,
+    "b": 159
+  },
+  {
+    "name": "Caparol Siena 5",
+    "r": 128,
+    "g": 110,
+    "b": 98
+  },
+  {
+    "name": "Caparol Siena 50",
+    "r": 217,
+    "g": 202,
+    "b": 190
+  },
+  {
+    "name": "Caparol Siena 55",
+    "r": 229,
+    "g": 211,
+    "b": 195
+  },
+  {
+    "name": "Caparol Siena 60",
+    "r": 243,
+    "g": 229,
+    "b": 217
+  },
+  {
+    "name": "Caparol Siena 65",
+    "r": 136,
+    "g": 105,
+    "b": 81
+  },
+  {
+    "name": "Caparol Siena 70",
+    "r": 159,
+    "g": 123,
+    "b": 95
+  },
+  {
+    "name": "Caparol Siena 75",
+    "r": 175,
+    "g": 136,
+    "b": 105
+  },
+  {
+    "name": "Caparol Siena 80",
+    "r": 180,
+    "g": 148,
+    "b": 125
+  },
+  {
+    "name": "Caparol Siena 85",
+    "r": 207,
+    "g": 181,
+    "b": 162
+  },
+  {
+    "name": "Caparol Siena 90",
+    "r": 230,
+    "g": 201,
+    "b": 179
+  },
+  {
+    "name": "Caparol Siena 95",
+    "r": 196,
+    "g": 161,
+    "b": 135
+  },
+  {
+    "name": "Caparol Soja 10",
+    "r": 205,
+    "g": 198,
+    "b": 182
+  },
+  {
+    "name": "Caparol Soja 15",
+    "r": 232,
+    "g": 224,
+    "b": 202
+  },
+  {
+    "name": "Caparol Soja 20",
+    "r": 245,
+    "g": 235,
+    "b": 207
+  },
+  {
+    "name": "Caparol Soja 25",
+    "r": 243,
+    "g": 236,
+    "b": 214
+  },
+  {
+    "name": "Caparol Soja 30",
+    "r": 242,
+    "g": 235,
+    "b": 216
+  },
+  {
+    "name": "Caparol Soja 5",
+    "r": 189,
+    "g": 181,
+    "b": 160
+  },
+  {
+    "name": "Caparol Tundra 10",
+    "r": 121,
+    "g": 117,
+    "b": 106
+  },
+  {
+    "name": "Caparol Tundra 100",
+    "r": 138,
+    "g": 128,
+    "b": 80
+  },
+  {
+    "name": "Caparol Tundra 105",
+    "r": 154,
+    "g": 143,
+    "b": 88
+  },
+  {
+    "name": "Caparol Tundra 110",
+    "r": 169,
+    "g": 156,
+    "b": 99
+  },
+  {
+    "name": "Caparol Tundra 115",
+    "r": 197,
+    "g": 185,
+    "b": 141
+  },
+  {
+    "name": "Caparol Tundra 120",
+    "r": 212,
+    "g": 199,
+    "b": 143
+  },
+  {
+    "name": "Caparol Tundra 125",
+    "r": 166,
+    "g": 153,
+    "b": 72
+  },
+  {
+    "name": "Caparol Tundra 130",
+    "r": 200,
+    "g": 186,
+    "b": 75
+  },
+  {
+    "name": "Caparol Tundra 135",
+    "r": 215,
+    "g": 200,
+    "b": 75
+  },
+  {
+    "name": "Caparol Tundra 140",
+    "r": 234,
+    "g": 217,
+    "b": 83
+  },
+  {
+    "name": "Caparol Tundra 145",
+    "r": 245,
+    "g": 228,
+    "b": 110
+  },
+  {
+    "name": "Caparol Tundra 15",
+    "r": 142,
+    "g": 138,
+    "b": 127
+  },
+  {
+    "name": "Caparol Tundra 150",
+    "r": 244,
+    "g": 233,
+    "b": 181
+  },
+  {
+    "name": "Caparol Tundra 20",
+    "r": 188,
+    "g": 183,
+    "b": 171
+  },
+  {
+    "name": "Caparol Tundra 25",
+    "r": 226,
+    "g": 220,
+    "b": 205
+  },
+  {
+    "name": "Caparol Tundra 30",
+    "r": 235,
+    "g": 230,
+    "b": 216
+  },
+  {
+    "name": "Caparol Tundra 35",
+    "r": 171,
+    "g": 161,
+    "b": 137
+  },
+  {
+    "name": "Caparol Tundra 40",
+    "r": 192,
+    "g": 183,
+    "b": 154
+  },
+  {
+    "name": "Caparol Tundra 45",
+    "r": 206,
+    "g": 198,
+    "b": 175
+  },
+  {
+    "name": "Caparol Tundra 5",
+    "r": 95,
+    "g": 94,
+    "b": 91
+  },
+  {
+    "name": "Caparol Tundra 50",
+    "r": 216,
+    "g": 211,
+    "b": 195
+  },
+  {
+    "name": "Caparol Tundra 55",
+    "r": 237,
+    "g": 231,
+    "b": 210
+  },
+  {
+    "name": "Caparol Tundra 60",
+    "r": 241,
+    "g": 237,
+    "b": 223
+  },
+  {
+    "name": "Caparol Tundra 65",
+    "r": 103,
+    "g": 95,
+    "b": 77
+  },
+  {
+    "name": "Caparol Tundra 70",
+    "r": 123,
+    "g": 119,
+    "b": 94
+  },
+  {
+    "name": "Caparol Tundra 75",
+    "r": 135,
+    "g": 130,
+    "b": 97
+  },
+  {
+    "name": "Caparol Tundra 80",
+    "r": 155,
+    "g": 143,
+    "b": 102
+  },
+  {
+    "name": "Caparol Tundra 85",
+    "r": 181,
+    "g": 170,
+    "b": 138
+  },
+  {
+    "name": "Caparol Tundra 90",
+    "r": 222,
+    "g": 213,
+    "b": 181
+  },
+  {
+    "name": "Caparol Tundra 95",
+    "r": 128,
+    "g": 120,
+    "b": 80
+  },
+  {
+    "name": "Caparol umbra-weiss",
+    "r": 232,
+    "g": 227,
+    "b": 216
+  },
+  {
+    "name": "Caparol Velvet 10",
+    "r": 97,
+    "g": 94,
+    "b": 109
+  },
+  {
+    "name": "Caparol Velvet 100",
+    "r": 114,
+    "g": 113,
+    "b": 154
+  },
+  {
+    "name": "Caparol Velvet 105",
+    "r": 144,
+    "g": 140,
+    "b": 173
+  },
+  {
+    "name": "Caparol Velvet 110",
+    "r": 170,
+    "g": 166,
+    "b": 193
+  },
+  {
+    "name": "Caparol Velvet 115",
+    "r": 198,
+    "g": 193,
+    "b": 211
+  },
+  {
+    "name": "Caparol Velvet 120",
+    "r": 226,
+    "g": 221,
+    "b": 230
+  },
+  {
+    "name": "Caparol Velvet 15",
+    "r": 123,
+    "g": 120,
+    "b": 132
+  },
+  {
+    "name": "Caparol Velvet 20",
+    "r": 150,
+    "g": 147,
+    "b": 157
+  },
+  {
+    "name": "Caparol Velvet 25",
+    "r": 179,
+    "g": 177,
+    "b": 183
+  },
+  {
+    "name": "Caparol Velvet 30",
+    "r": 207,
+    "g": 205,
+    "b": 208
+  },
+  {
+    "name": "Caparol Velvet 35",
+    "r": 75,
+    "g": 73,
+    "b": 97
+  },
+  {
+    "name": "Caparol Velvet 40",
+    "r": 104,
+    "g": 100,
+    "b": 123
+  },
+  {
+    "name": "Caparol Velvet 45",
+    "r": 130,
+    "g": 126,
+    "b": 146
+  },
+  {
+    "name": "Caparol Velvet 5",
+    "r": 72,
+    "g": 70,
+    "b": 84
+  },
+  {
+    "name": "Caparol Velvet 50",
+    "r": 156,
+    "g": 153,
+    "b": 168
+  },
+  {
+    "name": "Caparol Velvet 55",
+    "r": 185,
+    "g": 183,
+    "b": 193
+  },
+  {
+    "name": "Caparol Velvet 60",
+    "r": 213,
+    "g": 211,
+    "b": 216
+  },
+  {
+    "name": "Caparol Velvet 65",
+    "r": 80,
+    "g": 77,
+    "b": 110
+  },
+  {
+    "name": "Caparol Velvet 70",
+    "r": 110,
+    "g": 107,
+    "b": 138
+  },
+  {
+    "name": "Caparol Velvet 75",
+    "r": 137,
+    "g": 134,
+    "b": 160
+  },
+  {
+    "name": "Caparol Velvet 80",
+    "r": 162,
+    "g": 159,
+    "b": 180
+  },
+  {
+    "name": "Caparol Velvet 85",
+    "r": 189,
+    "g": 188,
+    "b": 202
+  },
+  {
+    "name": "Caparol Velvet 90",
+    "r": 219,
+    "g": 216,
+    "b": 223
+  },
+  {
+    "name": "Caparol Velvet 95",
+    "r": 86,
+    "g": 85,
+    "b": 132
+  },
+  {
+    "name": "Caparol Venato 10",
+    "r": 86,
+    "g": 89,
+    "b": 91
+  },
+  {
+    "name": "Caparol Venato 15",
+    "r": 104,
+    "g": 108,
+    "b": 110
+  },
+  {
+    "name": "Caparol Venato 20",
+    "r": 115,
+    "g": 118,
+    "b": 120
+  },
+  {
+    "name": "Caparol Venato 25",
+    "r": 128,
+    "g": 131,
+    "b": 133
+  },
+  {
+    "name": "Caparol Venato 30",
+    "r": 140,
+    "g": 144,
+    "b": 146
+  },
+  {
+    "name": "Caparol Venato 35",
+    "r": 154,
+    "g": 157,
+    "b": 159
+  },
+  {
+    "name": "Caparol Venato 40",
+    "r": 168,
+    "g": 171,
+    "b": 172
+  },
+  {
+    "name": "Caparol Venato 45",
+    "r": 180,
+    "g": 182,
+    "b": 184
+  },
+  {
+    "name": "Caparol Venato 5",
+    "r": 69,
+    "g": 72,
+    "b": 74
+  },
+  {
+    "name": "Caparol Venato 50",
+    "r": 195,
+    "g": 197,
+    "b": 197
+  },
+  {
+    "name": "Caparol Venato 55",
+    "r": 207,
+    "g": 208,
+    "b": 207
+  },
+  {
+    "name": "Caparol Venato 60",
+    "r": 217,
+    "g": 218,
+    "b": 218
+  },
+  {
+    "name": "Caparol Venezia 10",
+    "r": 221,
+    "g": 124,
+    "b": 125
+  },
+  {
+    "name": "Caparol Venezia 15",
+    "r": 232,
+    "g": 137,
+    "b": 137
+  },
+  {
+    "name": "Caparol Venezia 20",
+    "r": 247,
+    "g": 178,
+    "b": 178
+  },
+  {
+    "name": "Caparol Venezia 25",
+    "r": 245,
+    "g": 217,
+    "b": 215
+  },
+  {
+    "name": "Caparol Venezia 30",
+    "r": 245,
+    "g": 219,
+    "b": 215
+  },
+  {
+    "name": "Caparol Venezia 5",
+    "r": 208,
+    "g": 92,
+    "b": 98
+  },
+  {
+    "name": "Caparol Verdo 10",
+    "r": 91,
+    "g": 133,
+    "b": 65
+  },
+  {
+    "name": "Caparol Verdo 15",
+    "r": 57,
+    "g": 85,
+    "b": 68
+  },
+  {
+    "name": "Caparol Verdo 20",
+    "r": 49,
+    "g": 108,
+    "b": 70
+  },
+  {
+    "name": "Caparol Verdo 25",
+    "r": 67,
+    "g": 88,
+    "b": 84
+  },
+  {
+    "name": "Caparol Verdo 30",
+    "r": 33,
+    "g": 133,
+    "b": 105
+  },
+  {
+    "name": "Caparol Verdo 5",
+    "r": 76,
+    "g": 92,
+    "b": 65
+  },
+  {
+    "name": "Caparol Verona 10",
+    "r": 199,
+    "g": 199,
+    "b": 196
+  },
+  {
+    "name": "Caparol Verona 100",
+    "r": 89,
+    "g": 124,
+    "b": 125
+  },
+  {
+    "name": "Caparol Verona 105",
+    "r": 98,
+    "g": 151,
+    "b": 152
+  },
+  {
+    "name": "Caparol Verona 110",
+    "r": 150,
+    "g": 178,
+    "b": 178
+  },
+  {
+    "name": "Caparol Verona 115",
+    "r": 170,
+    "g": 206,
+    "b": 203
+  },
+  {
+    "name": "Caparol Verona 120",
+    "r": 206,
+    "g": 229,
+    "b": 226
+  },
+  {
+    "name": "Caparol Verona 125",
+    "r": 0,
+    "g": 112,
+    "b": 112
+  },
+  {
+    "name": "Caparol Verona 130",
+    "r": 0,
+    "g": 121,
+    "b": 124
+  },
+  {
+    "name": "Caparol Verona 135",
+    "r": 26,
+    "g": 142,
+    "b": 148
+  },
+  {
+    "name": "Caparol Verona 140",
+    "r": 91,
+    "g": 169,
+    "b": 169
+  },
+  {
+    "name": "Caparol Verona 145",
+    "r": 125,
+    "g": 196,
+    "b": 194
+  },
+  {
+    "name": "Caparol Verona 15",
+    "r": 206,
+    "g": 208,
+    "b": 204
+  },
+  {
+    "name": "Caparol Verona 150",
+    "r": 169,
+    "g": 217,
+    "b": 215
+  },
+  {
+    "name": "Caparol Verona 20",
+    "r": 212,
+    "g": 212,
+    "b": 210
+  },
+  {
+    "name": "Caparol Verona 25",
+    "r": 227,
+    "g": 226,
+    "b": 220
+  },
+  {
+    "name": "Caparol Verona 30",
+    "r": 233,
+    "g": 232,
+    "b": 225
+  },
+  {
+    "name": "Caparol Verona 35",
+    "r": 92,
+    "g": 101,
+    "b": 102
+  },
+  {
+    "name": "Caparol Verona 40",
+    "r": 140,
+    "g": 148,
+    "b": 147
+  },
+  {
+    "name": "Caparol Verona 45",
+    "r": 173,
+    "g": 180,
+    "b": 179
+  },
+  {
+    "name": "Caparol Verona 5",
+    "r": 168,
+    "g": 171,
+    "b": 170
+  },
+  {
+    "name": "Caparol Verona 50",
+    "r": 189,
+    "g": 193,
+    "b": 190
+  },
+  {
+    "name": "Caparol Verona 55",
+    "r": 208,
+    "g": 215,
+    "b": 212
+  },
+  {
+    "name": "Caparol Verona 60",
+    "r": 218,
+    "g": 224,
+    "b": 219
+  },
+  {
+    "name": "Caparol Verona 65",
+    "r": 57,
+    "g": 97,
+    "b": 98
+  },
+  {
+    "name": "Caparol Verona 70",
+    "r": 99,
+    "g": 122,
+    "b": 121
+  },
+  {
+    "name": "Caparol Verona 75",
+    "r": 124,
+    "g": 142,
+    "b": 142
+  },
+  {
+    "name": "Caparol Verona 80",
+    "r": 161,
+    "g": 175,
+    "b": 173
+  },
+  {
+    "name": "Caparol Verona 85",
+    "r": 199,
+    "g": 213,
+    "b": 210
+  },
+  {
+    "name": "Caparol Verona 90",
+    "r": 219,
+    "g": 232,
+    "b": 227
+  },
+  {
+    "name": "Caparol Verona 95",
+    "r": 58,
+    "g": 127,
+    "b": 129
+  },
+  {
+    "name": "Caparol Viola 10",
+    "r": 163,
+    "g": 156,
+    "b": 164
+  },
+  {
+    "name": "Caparol Viola 100",
+    "r": 114,
+    "g": 84,
+    "b": 121
+  },
+  {
+    "name": "Caparol Viola 105",
+    "r": 143,
+    "g": 107,
+    "b": 152
+  },
+  {
+    "name": "Caparol Viola 110",
+    "r": 134,
+    "g": 106,
+    "b": 138
+  },
+  {
+    "name": "Caparol Viola 115",
+    "r": 161,
+    "g": 137,
+    "b": 168
+  },
+  {
+    "name": "Caparol Viola 120",
+    "r": 188,
+    "g": 163,
+    "b": 190
+  },
+  {
+    "name": "Caparol Viola 15",
+    "r": 188,
+    "g": 184,
+    "b": 188
+  },
+  {
+    "name": "Caparol Viola 20",
+    "r": 214,
+    "g": 211,
+    "b": 211
+  },
+  {
+    "name": "Caparol Viola 25",
+    "r": 228,
+    "g": 224,
+    "b": 220
+  },
+  {
+    "name": "Caparol Viola 30",
+    "r": 235,
+    "g": 232,
+    "b": 227
+  },
+  {
+    "name": "Caparol Viola 35",
+    "r": 104,
+    "g": 92,
+    "b": 107
+  },
+  {
+    "name": "Caparol Viola 40",
+    "r": 137,
+    "g": 124,
+    "b": 137
+  },
+  {
+    "name": "Caparol Viola 45",
+    "r": 166,
+    "g": 152,
+    "b": 167
+  },
+  {
+    "name": "Caparol Viola 5",
+    "r": 135,
+    "g": 126,
+    "b": 138
+  },
+  {
+    "name": "Caparol Viola 50",
+    "r": 193,
+    "g": 181,
+    "b": 192
+  },
+  {
+    "name": "Caparol Viola 55",
+    "r": 219,
+    "g": 209,
+    "b": 215
+  },
+  {
+    "name": "Caparol Viola 60",
+    "r": 239,
+    "g": 231,
+    "b": 229
+  },
+  {
+    "name": "Caparol Viola 65",
+    "r": 107,
+    "g": 90,
+    "b": 112
+  },
+  {
+    "name": "Caparol Viola 70",
+    "r": 120,
+    "g": 99,
+    "b": 126
+  },
+  {
+    "name": "Caparol Viola 75",
+    "r": 128,
+    "g": 113,
+    "b": 133
+  },
+  {
+    "name": "Caparol Viola 80",
+    "r": 169,
+    "g": 150,
+    "b": 173
+  },
+  {
+    "name": "Caparol Viola 85",
+    "r": 197,
+    "g": 178,
+    "b": 200
+  },
+  {
+    "name": "Caparol Viola 90",
+    "r": 223,
+    "g": 207,
+    "b": 220
+  },
+  {
+    "name": "Caparol Viola 95",
+    "r": 88,
+    "g": 69,
+    "b": 95
+  },
+  {
+    "name": "Caparol Warm-weiss",
+    "r": 231,
+    "g": 226,
+    "b": 219
+  },
+  {
+    "name": "Caparol Porzellanweiss",
+    "r": 237,
+    "g": 235,
+    "b": 233
+  },
+  {
+    "name": "Caparol Verkehrsweiss",
+    "r": 240,
+    "g": 239,
+    "b": 232
+  },
+  {
+    "name": "Caparol Muschelweiss",
+    "r": 242,
+    "g": 239,
+    "b": 231
+  },
+  {
+    "name": "Caparol Altweiss",
+    "r": 241,
+    "g": 238,
+    "b": 227
+  },
+  {
+    "name": "Caparol Antikweiss",
+    "r": 242,
+    "g": 238,
+    "b": 228
+  },
+  {
+    "name": "Caparol Lichtweiss",
+    "r": 245,
+    "g": 240,
+    "b": 231
+  },
+  {
+    "name": "Caparol Kuhlweiss",
+    "r": 230,
+    "g": 229,
+    "b": 225
+  },
+  {
+    "name": "Caparol Grauweiss",
+    "r": 237,
+    "g": 234,
+    "b": 227
+  },
+  {
+    "name": "Caparol Hellweiss",
+    "r": 244,
+    "g": 241,
+    "b": 233
+  },
+  {
+    "name": "Caparol Naturweiss",
+    "r": 238,
+    "g": 233,
+    "b": 224
+  },
+  {
+    "name": "Caparol Umbraweiss",
+    "r": 232,
+    "g": 228,
+    "b": 218
+  },
+  {
+    "name": "Caparol Warmweiss",
+    "r": 233,
+    "g": 228,
+    "b": 220
+  },
+  {
+    "name": "Caparol Marmorweiss",
+    "r": 232,
+    "g": 232,
+    "b": 228
+  },
+  {
+    "name": "Caparol Signalweiss",
+    "r": 237,
+    "g": 236,
+    "b": 230
+  },
+  {
+    "name": "Caparol Reinweiss",
+    "r": 241,
+    "g": 237,
+    "b": 226
+  },
+  {
+    "name": "Caparol Samtweiss",
+    "r": 241,
+    "g": 234,
+    "b": 223
+  },
+  {
+    "name": "Caparol Cremeweiss",
+    "r": 232,
+    "g": 223,
+    "b": 210
+  },
+  {
+    "name": "Caparol Perimuttweiss",
+    "r": 234,
+    "g": 226,
+    "b": 222
+  }
+]
